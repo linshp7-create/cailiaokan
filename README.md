@@ -2,7 +2,7 @@
 
 材料化学阅读器。在手机上像刷小红书一样读 **JACS / Angew / ACS Nano**。与金融顶刊「五大刊」是两条产品线，互不影响。
 
-当前安装包：**[v1.0.1](https://github.com/linshp7-create/cailiaokan/releases/tag/v1.0.1)**（应用名「材料刊」，包名 `com.lin.cailiaokan`）。打开应用会从本仓库拉取最新目录；有新 APK 时应用内提示更新。
+当前安装包：**[v1.0.2](https://github.com/linshp7-create/cailiaokan/releases/tag/v1.0.2)**（应用名「材料刊」，包名 `com.lin.cailiaokan`）。打开应用会从本仓库拉取最新目录；有新 APK 时应用内提示更新。
 
 第一版只收这三本。Nature Chemistry、Advanced Materials、Nature / Science 材料精选等以后再加。
 
@@ -18,7 +18,7 @@
 
 目录覆盖 **2026 年已出各期**，以及 **ASAP / Early View**。正式出刊后，早报里的文章会归到对应那一期，不再出现在早报。
 
-这三本都是高产刊。当前目录大约：JACS 32 期、Angew 35 期、ACS Nano 32 期，另有一千多篇 ASAP。数据文件约十几 MB，[data/journal-data.json](data/journal-data.json)。工作日早上会核对出版社源；有新文或新一期就写进这个文件。打开 App 即可拉到，不必重装。
+这三本都是高产刊。当前目录大约：JACS 32 期、Angew 35 期、ACS Nano 32 期，另有一千多篇 ASAP。App 启动时拉取精简目录 [data/journal-data.app.json](data/journal-data.app.json)（约 3.5MB，不含摘要）。完整带摘要的 [data/journal-data.json](data/journal-data.json) 约十几 MB，只作存档，安装包不会内嵌。点开摘要再按 DOI 向 Crossref 取正文。工作日早上会核对出版社源；有新文或新一期就写进这两个文件。打开 App 即可拉到，不必重装。
 
 ---
 
@@ -61,7 +61,7 @@
 2. 若提示未知来源：系统设置 → 应用 → 特殊应用访问 → 安装未知应用。
 3. 这是独立应用，不会覆盖「五大刊」。
 
-当前最新：**1.0.1**。
+当前最新：**1.0.2**。
 
 ---
 
@@ -70,11 +70,12 @@
 本仓库是 **内容与发布通道**，不是完整 Android 工程。
 
 ```
-data/journal-data.json   三刊目录（App 启动时拉取）
-README.md                本说明
+data/journal-data.app.json  精简目录（标题 / 作者 / DOI / 链接 / 页码，App 启动时拉取）
+data/journal-data.json      完整目录（含摘要，存档用，App 不拉这个）
+README.md                   本说明
 ```
 
-安装包在 [Releases](https://github.com/linshp7-create/cailiaokan/releases)。`contentVersion` 比本地新时，App 才提示目录已更新。
+安装包在 [Releases](https://github.com/linshp7-create/cailiaokan/releases)。`contentVersion` 比本地新时，App 才换目录。摘要在点开后再取，不写进精简 JSON。
 
 ---
 
