@@ -16,7 +16,7 @@
 | **Angew** | Angewandte Chemie International Edition |
 | **ACS Nano** | ACS Nano |
 
-目录覆盖 **2026 年已出各期**，以及最近两周的 **ASAP / Early View**（不是全部 Accepted 积压）。正式出刊后，早报里的文章会归到对应那一期，不再出现在早报。
+目录覆盖 **2026 年已出各期**，以及尚未编入正式刊的 **ASAP / Early View**。正式出刊后，早报里的文章会归到对应那一期，不再出现在早报。
 
 这三本都是高产刊。当前目录大约：JACS 32 期、Angew 35 期、ACS Nano 32 期，另有一千多篇 ASAP。App 启动时拉取精简目录 [data/journal-data.app.json](data/journal-data.app.json)（约 3.5MB，不含摘要）。完整带摘要的 [data/journal-data.json](data/journal-data.json) 约十几 MB，只作存档，安装包不会内嵌。点开摘要再按 DOI 向 Crossref 取正文。工作日早上会核对出版社源；有新文或新一期就写进这两个文件。打开 App 即可拉到，不必重装。
 
