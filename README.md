@@ -2,7 +2,7 @@
 
 材料化学阅读器。在手机上像刷小红书一样读 **JACS / Angew / ACS Nano**。与金融顶刊「五大刊」是两条产品线，互不影响。
 
-当前安装包：**[v1.0.0](https://github.com/linshp7-create/cailiaokan/releases/tag/v1.0.0)**（应用名「材料刊」，包名 `com.lin.cailiaokan`）。打开应用会从本仓库拉取最新目录；有新 APK 时应用内提示更新。
+当前安装包：**[v1.0.1](https://github.com/linshp7-create/cailiaokan/releases/tag/v1.0.1)**（应用名「材料刊」，包名 `com.lin.cailiaokan`）。打开应用会从本仓库拉取最新目录；有新 APK 时应用内提示更新。
 
 第一版只收这三本。Nature Chemistry、Advanced Materials、Nature / Science 材料精选等以后再加。
 
@@ -61,7 +61,7 @@
 2. 若提示未知来源：系统设置 → 应用 → 特殊应用访问 → 安装未知应用。
 3. 这是独立应用，不会覆盖「五大刊」。
 
-当前最新：**1.0.0**。
+当前最新：**1.0.1**。
 
 ---
 
