@@ -1,11 +1,518 @@
 {
-  "contentVersion": "2026-09-03T08:28:18+08:00",
+  "contentVersion": "2026-09-04T08:48:08+08:00",
   "appVersionMin": "1.0.2",
   "journals": [
     {
       "code": "JACS",
       "full_name": "Journal of the American Chemical Society",
       "issues": [
+        {
+          "volume": "148",
+          "issue": "34",
+          "cover_date": "2026",
+          "year_month": "2026-09",
+          "issue_url": "https://pubs.acs.org/toc/jacsat/148/34",
+          "special_title": "",
+          "toc_source_url": "https://pubs.acs.org/toc/jacsat/148/34",
+          "is_complete_bound_issue": false,
+          "notes": "Partial issue assembled from Crossref/feed watch; papers may be incomplete",
+          "paper_count": 30,
+          "papers": [
+            {
+              "title": "Rapid, Low-Cost, Low-Temperature\nPyrazole-Flux Synthesis\nof Imide Covalent Organic Frameworks for Uranium/Rare Earth Separation",
+              "authors": [
+                "Yao Zhang",
+                "Bohan Yang",
+                "Xianqing Xie",
+                "Xuefeng Feng",
+                "Xing Liu",
+                "Lele Gong",
+                "Feng Luo"
+              ],
+              "doi": "10.1021/jacs.6c12938",
+              "url": "https://doi.org/10.1021/jacs.6c12938",
+              "pages": "37434-37445"
+            },
+            {
+              "title": "Lattice-Nitrogen-Mediated\nElectrochemical Nitrate\nReduction Boosted by Single-Atom Antimony Doping",
+              "authors": [
+                "Xinyue Shi",
+                "Xiaohua Yu",
+                "Minghui Xie",
+                "Jianwei Wu",
+                "Ping Zhang",
+                "Hainan Wei",
+                "Su Ma",
+                "Yujie Cui",
+                "Na Xu",
+                "Xuan Peng",
+                "Guohua Zhang",
+                "Yiming Zhu",
+                "Jiayi Li",
+                "Min-Hsin Yeh",
+                "Wei-Hsiang Huang",
+                "Jiwei Ma",
+                "Hongfei Cheng"
+              ],
+              "doi": "10.1021/jacs.6c12366",
+              "url": "https://doi.org/10.1021/jacs.6c12366",
+              "pages": "37352-37362"
+            },
+            {
+              "title": "Self-Sustained Hydrogen\nRelay Enables Thermodynamically\nCoupled Cyclohexane-CO2 Conversion to Aromatics over Tandem\nCatalysts",
+              "authors": [
+                "Haohao Feng",
+                "Jingyi Zhu",
+                "Zhong-Pan Hu",
+                "Enze Chen",
+                "Jingfeng Han",
+                "Yingxu Wei",
+                "Zhongmin Liu"
+              ],
+              "doi": "10.1021/jacs.6c13315",
+              "url": "https://doi.org/10.1021/jacs.6c13315",
+              "pages": "37466-37476"
+            },
+            {
+              "title": "Redox-Controlled Access\nto Spin States from\n                    <i>S</i>\n                    = 0 to\n                    <i>S</i>\n                    =\n3/2 in a 1,2-Dicarbonyl Scaffold\nEnabled by a Naphthoquinone-Fused N-Heterocyclic Carbene",
+              "authors": [
+                "Jaelim Kim",
+                "Wooyeol Ryu",
+                "Hyeonju Kim",
+                "Minjae Jang",
+                "Yujin Choi",
+                "Jeongcheol Shin",
+                "Sun Hee Kim",
+                "Eunsung Lee"
+              ],
+              "doi": "10.1021/jacs.6c13908",
+              "url": "https://doi.org/10.1021/jacs.6c13908",
+              "pages": "37503-37514"
+            },
+            {
+              "title": "Pulsed Electrolysis\nUnlocks Non-Noble-Metal Catalysis\nfor Per- and Polyfluoroalkyl Substance Defluorination in Water",
+              "authors": [
+                "Ying Yu",
+                "Shuchang Wang",
+                "Yanqiu Liu",
+                "Xiaoguang Duan",
+                "Xiaohong Guan"
+              ],
+              "doi": "10.1021/jacs.6c10422",
+              "url": "https://doi.org/10.1021/jacs.6c10422",
+              "pages": "37034-37045"
+            },
+            {
+              "title": "Real-Time\nObservation of Dynamic Spin Polarization\nin Copper Oxide by Carrier Scattering with Chiral Phonons",
+              "authors": [
+                "Ratnadip De",
+                "Allen Partin",
+                "Connor Davis",
+                "Conner Dykstra",
+                "Brian P. Bloom",
+                "Elizabeth Shiby",
+                "David H. Waldeck",
+                "Martin Schultze",
+                "L. Robert Baker"
+              ],
+              "doi": "10.1021/jacs.6c11214",
+              "url": "https://doi.org/10.1021/jacs.6c11214",
+              "pages": "36314-36319"
+            },
+            {
+              "title": "Synergistic Surface\nand Interface Regulation of Ultralow-Pt-Loading\nCathodes for Low-Alkalinity AEMWEs",
+              "authors": [
+                "Fei-Yue Gao",
+                "Jing-Wen DuanMu",
+                "Haifeng Shen",
+                "Xiaogang Sun",
+                "Yao Zheng",
+                "Shi-Zhang Qiao"
+              ],
+              "doi": "10.1021/jacs.6c12859",
+              "url": "https://doi.org/10.1021/jacs.6c12859",
+              "pages": "37388-37397"
+            },
+            {
+              "title": "<i>In Situ</i>\n                    Construction of a Reticulated\nPeptide Scaffold via Responsive Self-Assembly and Proximal Covalent\nLabeling for Enhanced Tumor Imaging and Therapy",
+              "authors": [
+                "Ruxin Feng",
+                "Yunfeng Qiu",
+                "Yang Zhao",
+                "Rixin Wang",
+                "Weilu Xu",
+                "Jinhui Ning",
+                "Yumin Li",
+                "Juyue Zhou",
+                "Dingqing Feng",
+                "Suying Xu",
+                "Leyu Wang"
+              ],
+              "doi": "10.1021/jacs.6c08269",
+              "url": "https://doi.org/10.1021/jacs.6c08269",
+              "pages": "36782-36793"
+            },
+            {
+              "title": "Local Active-Site Architecture\nDirects Divergent Carbocation\nCascades in Sesterterpene Synthases",
+              "authors": [
+                "Philip Troycke",
+                "Heng Li",
+                "Kexin Yang",
+                "Jeroen S. Dickschat",
+                "Michael Groll"
+              ],
+              "doi": "10.1021/jacs.6c06677",
+              "url": "https://doi.org/10.1021/jacs.6c06677",
+              "pages": "36648-36661"
+            },
+            {
+              "title": "Moderately Solvated\nElectrolyte Enabling Fast Charging\nof a Lithium-Ion Battery at Low Temperature",
+              "authors": [
+                "Ziwen Zha",
+                "Aoxuan Wang",
+                "Zhengfei Zhao",
+                "Zhenglin Hu",
+                "Fuqiang Huang",
+                "Jiayan Luo"
+              ],
+              "doi": "10.1021/jacs.6c12417",
+              "url": "https://doi.org/10.1021/jacs.6c12417",
+              "pages": "37298-37309"
+            },
+            {
+              "title": "Recrystallization-Driven\nAssembly of Cs3Cd2Cl7 Nanoplatelets\ninto Hybrid Organic–Inorganic\nRuddlesden–Popper Stacks",
+              "authors": [
+                "Diptam Nasipuri",
+                "Stefano Toso",
+                "Souvik Banerjee",
+                "Sumit Kumar Dutta",
+                "Yurii P. Ivanov",
+                "Dmitry Baranov",
+                "Liberato Manna",
+                "Narayan Pradhan"
+              ],
+              "doi": "10.1021/jacs.6c11511",
+              "url": "https://doi.org/10.1021/jacs.6c11511",
+              "pages": "37180-37192"
+            },
+            {
+              "title": "Frustrated\nInterfacial Solvation Enhances Reaction\nRates at Acidified Ice Grain Boundaries in Frozen Microdroplets",
+              "authors": [
+                "Runbo Wang",
+                "Kuan Luo",
+                "Tao Wang",
+                "Yu Wei",
+                "Jilun Wang",
+                "Le Yang",
+                "Wenbo You",
+                "Qiuyue Ge",
+                "Yangyang Liu",
+                "Minglu Ma",
+                "Kejian Li",
+                "Yuting Lyu",
+                "Laurentiu-Gabriel Movila",
+                "Xiang Sun",
+                "Huiming Bao",
+                "Jianmin Chen",
+                "Christian George",
+                "Norimichi Takenaka",
+                "Markku Kulmala",
+                "Minbiao Ji",
+                "Liwu Zhang",
+                "Zhang Lin"
+              ],
+              "doi": "10.1021/jacs.6c11450",
+              "url": "https://doi.org/10.1021/jacs.6c11450",
+              "pages": "37134-37143"
+            },
+            {
+              "title": "Reticular Construction\nof Porphyrin–Pyrazolate\nFrameworks for Markovnikov-Selective Wacker-Type Oxidation of Styrenes",
+              "authors": [
+                "You-Tuo Zhang",
+                "Tao He",
+                "Xiang-Jing Kong",
+                "Guang-Rui Si",
+                "Yingjie Wang",
+                "Xiaofei Fan",
+                "Jian-Rong Li"
+              ],
+              "doi": "10.1021/jacs.6c09729",
+              "url": "https://doi.org/10.1021/jacs.6c09729",
+              "pages": "36932-36941"
+            },
+            {
+              "title": "Excited Triplet State\nof Heptacene Studied by Electron\nSpin Resonance",
+              "authors": [
+                "Mikaru Masuda",
+                "Joel Hao Jorolan",
+                "Hironobu Hayashi",
+                "Hiroko Yamada",
+                "Tomoaki Miura",
+                "Tadaaki Ikoma"
+              ],
+              "doi": "10.1021/jacs.6c06021",
+              "url": "https://doi.org/10.1021/jacs.6c06021",
+              "pages": "36309-36313"
+            },
+            {
+              "title": "Enhanced Sampling and\nLigandability Assessment to\nExpand the Repertoire of Potentially Druggable Cryptic Pockets",
+              "authors": [
+                "Neha Vithani",
+                "She Zhang",
+                "Judith Günther",
+                "Hans Purkey",
+                "J. David Lawson",
+                "Anthony Nicholls",
+                "A. Geoffrey Skillman",
+                "David N. LeBard"
+              ],
+              "doi": "10.1021/jacs.6c05778",
+              "url": "https://doi.org/10.1021/jacs.6c05778",
+              "pages": "36594-36609"
+            },
+            {
+              "title": "3D, Structure-Based,\nDeep Learning Approach to Predict\nthe Regioselectivity of Olefin Hydroformylations",
+              "authors": [
+                "Nicholas Hadler",
+                "N. Ian Rinehart",
+                "Masha Elkin",
+                "Jeremy Nicolai",
+                "Golsa Gheibi",
+                "Jiaqing Chen",
+                "Matthew Avaylon",
+                "Ross Maciejewski",
+                "Gunther H. Weber",
+                "Michael W. Mahoney",
+                "Talita Perciano",
+                "John F. Hartwig"
+              ],
+              "doi": "10.1021/jacs.6c11602",
+              "url": "https://doi.org/10.1021/jacs.6c11602",
+              "pages": "37167-37179"
+            },
+            {
+              "title": "Probing the Role of\nCopper Dislocation Density in\nElectrochemical CO2 Conversion",
+              "authors": [
+                "Caiwei Zhang",
+                "Usha Bhat",
+                "Jianye Hong",
+                "Guangxin Sun",
+                "Zhi S. Lim",
+                "Chao Wu",
+                "Toshihiro Okajima",
+                "Chaolong Wei",
+                "Nazila Hamidi",
+                "Ge Yan",
+                "Erin Iski",
+                "Shibo Xi",
+                "Michel Bosman",
+                "Andrew B. Wong"
+              ],
+              "doi": "10.1021/jacs.6c05565",
+              "url": "https://doi.org/10.1021/jacs.6c05565",
+              "pages": "36555-36566"
+            },
+            {
+              "title": "Spatial Electronic\nPartitioning in Metal–Organic\nFrameworks for pH-Universal CO2 Electroreduction",
+              "authors": [
+                "Jie Meng",
+                "Ying Wang",
+                "Jia-Wen Wang",
+                "Ze-Lin Ma",
+                "Tian-Shu He",
+                "Jiao-Na Yue",
+                "Bo-Lin Sun",
+                "Quan-Guo Zhai"
+              ],
+              "doi": "10.1021/jacs.6c06810",
+              "url": "https://doi.org/10.1021/jacs.6c06810",
+              "pages": "36662-36674"
+            },
+            {
+              "title": "A Structurally Distinct\nHigh-Entropy Zeolitic Imidazolate\nFramework Enabled by Entropy-Assisted Co-Ligation",
+              "authors": [
+                "Zekang Wang",
+                "Pengtang Wang",
+                "Yanzhang Zhao",
+                "Teng Lu",
+                "Yan Jiao",
+                "Yun Liu",
+                "Yihan Zhu",
+                "Yao Zheng",
+                "Shi-Zhang Qiao"
+              ],
+              "doi": "10.1021/jacs.6c07851",
+              "url": "https://doi.org/10.1021/jacs.6c07851",
+              "pages": "36733-36742"
+            },
+            {
+              "title": "Tuning the ZIKV NS3\nHelicase Motor Activity through\nMagnesium Coordination and RNA-Driven Allostery",
+              "authors": [
+                "Adrián García-Martínez",
+                "J. Javier Ruiz-Pernía",
+                "Iñaki Tuñón"
+              ],
+              "doi": "10.1021/jacs.6c11584",
+              "url": "https://doi.org/10.1021/jacs.6c11584",
+              "pages": "37154-37166"
+            },
+            {
+              "title": "A Theoretical 4f Field\nEffect of Rare-Earth Complexes\non Dinitrogen Reduction",
+              "authors": [
+                "Qi Wang",
+                "Yuxi Wang",
+                "Xinyuan Wang",
+                "Qian Peng"
+              ],
+              "doi": "10.1021/jacs.6c12765",
+              "url": "https://doi.org/10.1021/jacs.6c12765",
+              "pages": "37342-37351"
+            },
+            {
+              "title": "Symmetry-Encoded [6\n+ 12] Octahedral Organic Cages\nEnabled by Retrospective Design",
+              "authors": [
+                "Shayan Karak",
+                "Soubhik Khata",
+                "Ekta Nehra",
+                "Yusuke Nishiyama",
+                "Naomi Watanabe",
+                "Christian Göb",
+                "Rahul Banerjee"
+              ],
+              "doi": "10.1021/jacs.6c10786",
+              "url": "https://doi.org/10.1021/jacs.6c10786",
+              "pages": "37056-37068"
+            },
+            {
+              "title": "Redirecting Nitroarene\nElectroreduction toward Nitrogen-Scaffold\nSynthesis",
+              "authors": [
+                "Leitao Xu",
+                "Bowei Yuan",
+                "Zhuqian Cai",
+                "Bo Wang",
+                "Bowen Gao",
+                "Aleksandr Y. Pereverzev",
+                "Yi Zhu",
+                "Chao Qian",
+                "Jana Roithová",
+                "Yi Wang"
+              ],
+              "doi": "10.1021/jacs.6c11800",
+              "url": "https://doi.org/10.1021/jacs.6c11800",
+              "pages": "37203-37212"
+            },
+            {
+              "title": "Reductive Couplings\nVia Nucleophilic Photoactivation\nof Carbonyls",
+              "authors": [
+                "Sai Rohini Narayanan Kolusu",
+                "Manuel Rodríguez-Martínez",
+                "Carla Aira-Rodríguez",
+                "Matteo Caldari",
+                "Gabriel Brenlla-Carballo",
+                "Ismael Amado-Amado",
+                "Emanuele Azzi",
+                "Yinan Song",
+                "Joseph Ward",
+                "Nidhal Selmi",
+                "Jesus A. Varela",
+                "Manuel Nappi"
+              ],
+              "doi": "10.1021/jacs.6c12120",
+              "url": "https://doi.org/10.1021/jacs.6c12120",
+              "pages": "37235-37244"
+            },
+            {
+              "title": "Structural Homology\nAllows Alloyed II–V Magic-Sized\nClusters with Continuously Tunable Emission",
+              "authors": [
+                "Soren F. Sandeno",
+                "Dylan M. Ladd",
+                "Vijay Lin",
+                "Emma J. Coester",
+                "Michael F. Toney",
+                "Brandi M. Cossairt"
+              ],
+              "doi": "10.1021/jacs.6c12508",
+              "url": "https://doi.org/10.1021/jacs.6c12508",
+              "pages": "37376-37387"
+            },
+            {
+              "title": "Design of Chemically\nProgrammable Nanomaterials for\nOrgan-Selective Targeting",
+              "authors": [
+                "Siyu Zhu",
+                "Weibo Cai",
+                "Zhongmin Tang"
+              ],
+              "doi": "10.1021/jacs.6c09388",
+              "url": "https://doi.org/10.1021/jacs.6c09388",
+              "pages": "36275-36295"
+            },
+            {
+              "title": "Concise Asymmetric\nTotal Synthesis of (−)-Cribrostatin\n4 via Development of a Rh-Catalyzed Asymmetric Hydrogenation of 2,5-Diketopiperazine-Derived\nEnamides",
+              "authors": [
+                "Xing-Yu Wang",
+                "Ka Lu",
+                "Wen Jiang",
+                "Lei Zheng",
+                "Xiao-Ming Zhang",
+                "Fu-Min Zhang",
+                "Hong Wang",
+                "Yong-Qiang Tu"
+              ],
+              "doi": "10.1021/jacs.6c12963",
+              "url": "https://doi.org/10.1021/jacs.6c12963",
+              "pages": "37424-37433"
+            },
+            {
+              "title": "Chemical Tuning of\nCharge Transport Polarity in Light-Emitting\nTransistors Enabling Neuromorphic Display, Computing, and Optocoupler",
+              "authors": [
+                "Yusheng Chen",
+                "Zhongshi Ju",
+                "Zheng Chen",
+                "Boyuan Yu",
+                "Yun Wang",
+                "Jin Li",
+                "Peng Li",
+                "Jiangang Ma",
+                "Paolo Samorì"
+              ],
+              "doi": "10.1021/jacs.6c10068",
+              "url": "https://doi.org/10.1021/jacs.6c10068",
+              "pages": "36958-36968"
+            },
+            {
+              "title": "Temperature Dependence\nof the Hydrated Electron’s\n                    <i>g</i>\n                    -Factor\nand Persistence of a Cavity-Localized Electron\nat Elevated Temperature",
+              "authors": [
+                "Ar. M. Fonlon",
+                "Christopher J. Mundy",
+                "John M. Herbert"
+              ],
+              "doi": "10.1021/jacs.6c07020",
+              "url": "https://doi.org/10.1021/jacs.6c07020",
+              "pages": "36675-36686"
+            },
+            {
+              "title": "Salt\nFlux Synthetic Catholicon: A Universal Route\nto Refractory and High-Entropy Alloys and Intermetallics",
+              "authors": [
+                "Muhammad Azhan",
+                "Grant P. Lansing",
+                "Vivek Upadhyay",
+                "Richeal Oppong",
+                "David R. Ramgren",
+                "Genevieve Amobi",
+                "Sebastian Huerta-Romo Picazo",
+                "Gayatri Viswanathan",
+                "Yao Abusa",
+                "Mohd Anas",
+                "Wenyu Huang",
+                "Parashu Kharel",
+                "Kirill Kovnir"
+              ],
+              "doi": "10.1021/jacs.6c09161",
+              "url": "https://doi.org/10.1021/jacs.6c09161",
+              "pages": "36887-36899"
+            }
+          ]
+        },
         {
           "volume": "148",
           "issue": "33",
@@ -104864,6 +105371,276 @@
       "issues": [
         {
           "volume": "20",
+          "issue": "34",
+          "cover_date": "2026",
+          "year_month": "2026-09",
+          "issue_url": "https://pubs.acs.org/toc/ancac3/20/34",
+          "special_title": "",
+          "toc_source_url": "https://pubs.acs.org/toc/ancac3/20/34",
+          "is_complete_bound_issue": false,
+          "notes": "Partial issue assembled from Crossref/feed watch; papers may be incomplete",
+          "paper_count": 14,
+          "papers": [
+            {
+              "title": "g-Factor-Enhanced\nUpper Critical Field in Superconducting\nPdTe2 due to Quantum Confinement",
+              "authors": [
+                "Kota Yoshimura",
+                "Tzu-Chi Hsieh",
+                "Huiyang Ma",
+                "Dmitry V. Chichinadze",
+                "Shan Zou",
+                "Michael Stuckert",
+                "David Graf",
+                "Robert Nowell",
+                "Muhsin Abdul Karim",
+                "Daichi Kozawa",
+                "Ryo Kitaura",
+                "Bence G. Márkus",
+                "László Forró",
+                "Xiaolong Liu",
+                "Dafei Jin",
+                "Xinyu Liu",
+                "Cyprian Lewandowski",
+                "Yi-Ting Hsu",
+                "Badih A. Assaf"
+              ],
+              "doi": "10.1021/acsnano.6c07055",
+              "url": "https://doi.org/10.1021/acsnano.6c07055",
+              "pages": "23884-23892"
+            },
+            {
+              "title": "Nanoscale Architecture\nCan Control Cellular Function",
+              "authors": [
+                "Ha Neul Lee",
+                "Lingxia Qiao",
+                "Yanghao Zhong",
+                "Sohum Mehta",
+                "Akemi J. Nishida",
+                "Padmini Rangamani",
+                "Jin Zhang"
+              ],
+              "doi": "10.1021/acsnano.6c03529",
+              "url": "https://doi.org/10.1021/acsnano.6c03529",
+              "pages": "23756-23767"
+            },
+            {
+              "title": "Living Microbe-Driven\nBioorthogonal Catalysts Enables\nCytotoxin Generation, Cuproptosis and Lactate Depletion for Synergistic\nTumor Therapy",
+              "authors": [
+                "Lili Xia",
+                "Xiangxuan Chao",
+                "Zitong Zhao",
+                "Xiaozhen Zhou",
+                "Chenyao Wu",
+                "Xinran Song",
+                "Wenli Zhou",
+                "Yuyao Li",
+                "Wei Feng",
+                "Yu Chen"
+              ],
+              "doi": "10.1021/acsnano.6c08698",
+              "url": "https://doi.org/10.1021/acsnano.6c08698",
+              "pages": "23975-23991"
+            },
+            {
+              "title": "Self-Assembled\nMolecular Interfaces in Batteries:\nFrom Surface Passivation to Programmable Interphase Engineering",
+              "authors": [
+                "Jilu Zhao",
+                "Qingyu Dong",
+                "Hui Shao",
+                "Yanbin Shen",
+                "Liwei Chen"
+              ],
+              "doi": "10.1021/acsnano.6c08141",
+              "url": "https://doi.org/10.1021/acsnano.6c08141",
+              "pages": "23608-23623"
+            },
+            {
+              "title": "Molecular Design\nPrinciples for Photosystem I-Based\nBiohybrid Solar Fuel Catalysts",
+              "authors": [
+                "Maximino D. Emerson",
+                "Siva Naga Sai Damaraju",
+                "Audrey H. Short",
+                "Zachary B. Alvord",
+                "Zsolt A. Palmer",
+                "Himanshu S. Mehra",
+                "Christian M. Brininger",
+                "Josh V. Vermaas",
+                "Lisa M. Utschig",
+                "Christopher J. Gisriel"
+              ],
+              "doi": "10.1021/acsnano.6c07948",
+              "url": "https://doi.org/10.1021/acsnano.6c07948",
+              "pages": "23893-23906"
+            },
+            {
+              "title": "Transgene-Free\nPhotothermal Enhancement of Glucose-Adaptive\nInsulin Secretion by Amplifying Ca2+ Oscillations",
+              "authors": [
+                "Feifei Wu",
+                "Xinwei Wei",
+                "Wei Zhao",
+                "Liqing He",
+                "Bulong Gao",
+                "Yujie Luo",
+                "Wen Zhou",
+                "Yixuan Chai",
+                "Yanfang Wang",
+                "Baiheng Wu",
+                "Jinqiang Wang",
+                "Junqiu Liu",
+                "Dingcheng Zhu"
+              ],
+              "doi": "10.1021/acsnano.6c03666",
+              "url": "https://doi.org/10.1021/acsnano.6c03666",
+              "pages": "23768-23785"
+            },
+            {
+              "title": "Layered\nLipid Nanoparticle Adjuvants Coordinate Toll-Like\nReceptor 4 and Toll-Like Receptor 9 Activation with Enhanced Immunity\nand Improved Tolerability",
+              "authors": [
+                "Haolin Chen",
+                "Ruifeng Wang",
+                "Zhihui Zhang",
+                "Zeyu Yang",
+                "Zhenfu Wen",
+                "Liyan Li",
+                "Zhijia Liu",
+                "Dang Fan",
+                "Yuhua Xu",
+                "Ming Li",
+                "Hong Liu",
+                "Lixin Liu",
+                "Yongming Chen"
+              ],
+              "doi": "10.1021/acsnano.6c09358",
+              "url": "https://doi.org/10.1021/acsnano.6c09358",
+              "pages": "24004-24019"
+            },
+            {
+              "title": "An\n“Oxidative\nStress Clock” Nanoprobe Reveals the Therapeutic Time Window\nfor Antioxidant Intervention in Atherosclerosis",
+              "authors": [
+                "Xia Zhang",
+                "Guocheng Li",
+                "Jiaqi Yin",
+                "Jiarui Zhong",
+                "Wei Pan",
+                "Yanhua Li",
+                "Na Li",
+                "Bo Tang"
+              ],
+              "doi": "10.1021/acsnano.6c09224",
+              "url": "https://doi.org/10.1021/acsnano.6c09224",
+              "pages": "23992-24003"
+            },
+            {
+              "title": "Symmetry-Programmed\nPure Spin Photocurrents in Sliding\nFerroelectric Altermagnets",
+              "authors": [
+                "Yao Yang",
+                "Fuming Xu",
+                "Hao Jin"
+              ],
+              "doi": "10.1021/acsnano.6c06799",
+              "url": "https://doi.org/10.1021/acsnano.6c06799",
+              "pages": "23852-23860"
+            },
+            {
+              "title": "Adamantane Self-Assembly\nTemplates Size-Selective\nIon-Transport Domains in Solid-State Organic Electrolytes",
+              "authors": [
+                "Sila Alemdar",
+                "Jack McAlpine",
+                "Hrishikesh Tupkar",
+                "Marissa Gallmeyer",
+                "Diego Rosario Sánchez",
+                "Margaret Szalaj",
+                "Jeremy E. Dahl",
+                "Robert M. K. Carlson",
+                "Boryslav O. Tkachenko",
+                "Whitney S. Loo",
+                "Peter R. Schreiner",
+                "Matthew A. Gebbie"
+              ],
+              "doi": "10.1021/acsnano.6c08168",
+              "url": "https://doi.org/10.1021/acsnano.6c08168",
+              "pages": "23917-23928"
+            },
+            {
+              "title": "InF3 Surface\nPassivation on InAs Quantum\nDots Enhances Photoluminescence and Reduces Trap-Induced Dark Current\nin Shortwave Infrared Photodetectors",
+              "authors": [
+                "Hua Chen",
+                "Boris B. Claus",
+                "Wenya Song",
+                "Marina Vildanova",
+                "Lara M. van der Poll",
+                "Anne van Aken",
+                "Yan B. Vogel",
+                "Jing Bai",
+                "Yun Hai",
+                "Yigithan M. Kose",
+                "Maria Isabel Pintor Monroy",
+                "Loredana Protesescu",
+                "Tom J. Savenije",
+                "Zeger Hens",
+                "Itai Lieberman",
+                "Arjan J. Houtepen"
+              ],
+              "doi": "10.1021/acsnano.6c06196",
+              "url": "https://doi.org/10.1021/acsnano.6c06196",
+              "pages": "23822-23836"
+            },
+            {
+              "title": "Particle-by-Particle\nBiomolecular Coronas: Insights\ninto Single-Particle Analysis of Fluorescent Labeling",
+              "authors": [
+                "Ester Canepa",
+                "Chiara Giacomozzi",
+                "Patrizia Romano",
+                "Camille Legentil",
+                "Breno Moura Motta",
+                "Qiwei Wang",
+                "Zixu Zhao",
+                "Pablo Graván",
+                "Serena Leone",
+                "Ilaria Corsi",
+                "Rita Carrotta",
+                "Alfonso Blanco",
+                "Yan Yan",
+                "Kenneth Dawson"
+              ],
+              "doi": "10.1021/acsnano.6c10058",
+              "url": "https://doi.org/10.1021/acsnano.6c10058",
+              "pages": "24091-24109"
+            },
+            {
+              "title": "Hydrogel Transformation\nReveals a Conventionally Inaccessible\nSub-Micrometer Microplastic Fraction in Intact Human Tissues",
+              "authors": [
+                "Quinten Wouters",
+                "Sergey Abakumov",
+                "Charlotte Van Der Stukken",
+                "Imran Aslam",
+                "Iris Van Den Eede",
+                "Peter Dedecker",
+                "Tim S. Nawrot",
+                "Maarten B. J. Roeffaers"
+              ],
+              "doi": "10.1021/acsnano.6c12376",
+              "url": "https://doi.org/10.1021/acsnano.6c12376",
+              "pages": "24123-24134"
+            },
+            {
+              "title": "Distinct Charge\nCompensation Induced by Cationic Ordering-Disordering\nTransition in Layered Oxide Cathode",
+              "authors": [
+                "Qianjie Niu",
+                "Chen Cheng",
+                "Zheng Zhou",
+                "Lei Wang",
+                "Pan Zeng",
+                "Liang Zhang"
+              ],
+              "doi": "10.1021/acsnano.6c04886",
+              "url": "https://doi.org/10.1021/acsnano.6c04886",
+              "pages": "23801-23812"
+            }
+          ]
+        },
+        {
+          "volume": "20",
           "issue": "32",
           "cover_date": "August 2026",
           "year_month": "2026-08",
@@ -134744,6 +135521,2172 @@
   "earlyView": [
     {
       "journal": "ACSN",
+      "title": "Ultrathin Small-Sized\nGraphene Oxide-Modified MXene\nHybrid Films for Highly Sensitive Transparent Strain Sensors",
+      "authors": [
+        "Jie Xue",
+        "Dan Liu",
+        "Tianzeng Hong",
+        "Yuxuan Sun",
+        "Zifu Zhu",
+        "Xiaobo Gao",
+        "Xiaochen Liu",
+        "Weizhao Zhang",
+        "Qingbin Zheng"
+      ],
+      "doi": "10.1021/acsnano.6c06335",
+      "url": "https://doi.org/10.1021/acsnano.6c06335",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Tetrahedron-Embedded\nPorous Cubic Nanoframes for Concurrent\nEngineering of Hotspot Intensity and Density",
+      "authors": [
+        "Kyuvin Hur",
+        "Chihoon Bae",
+        "Qiang Zhao",
+        "Inyoung Choi",
+        "Insub Jung",
+        "Sungho Park"
+      ],
+      "doi": "10.1021/acsnano.6c10450",
+      "url": "https://doi.org/10.1021/acsnano.6c10450",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Spin Reorientation\nDriven Renormalization of Spin–Phonon\nCoupling in Fe4GeTe2",
+      "authors": [
+        "Riju Pal",
+        "Md. Nur Hasan",
+        "Dayal Das",
+        "Chumki Nayak",
+        "Mrinal Deka",
+        "Nastaran Salehi",
+        "Manuel Pereiro",
+        "Suchanda Mondal",
+        "Abhishek Misra",
+        "Achintya Singha",
+        "Prabhat Mandal",
+        "Debjani Karmakar",
+        "Atindra Nath Pal"
+      ],
+      "doi": "10.1021/acsnano.5c22274",
+      "url": "https://doi.org/10.1021/acsnano.5c22274",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Proton-Driven\nAnthrax Protective Antigen Nanopore\nfor Enantiospecific Discrimination of Chiral Amino Acids via Current\nReadout",
+      "authors": [
+        "Yan Wang",
+        "Zhirui Zhang",
+        "Shilong Liu",
+        "Yunjiao Wang",
+        "Yao Li",
+        "Mingdong Dong",
+        "Liang Wang"
+      ],
+      "doi": "10.1021/acsnano.6c12067",
+      "url": "https://doi.org/10.1021/acsnano.6c12067",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "On-Demand\nCharged States in Quantum Dot–ZnO\nNanoparticle Assemblies toward Sub-Excitonic Optical Gain",
+      "authors": [
+        "Hyeonjun Lee",
+        "Amira Gharbi",
+        "Benjamin Shu",
+        "Clément Marchat",
+        "Alessandro Rotondi",
+        "Sejong Min",
+        "Mehdi Mouissat",
+        "Thierry Gacoin",
+        "Michel Sliwa",
+        "Donghyo Hahm",
+        "Clément Livache"
+      ],
+      "doi": "10.1021/acsnano.6c11137",
+      "url": "https://doi.org/10.1021/acsnano.6c11137",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Hexagonal Close-Packed\nRuCo Alloys Modulate Li2O2 Formation and Decomposition\nPathways in Lithium–Oxygen\nBatteries",
+      "authors": [
+        "Yajing Li",
+        "Yinjing Sun",
+        "Yingli Wang",
+        "Caixia Li",
+        "Lei Wang",
+        "Fujun Li",
+        "Qingliang Lv"
+      ],
+      "doi": "10.1021/acsnano.6c14363",
+      "url": "https://doi.org/10.1021/acsnano.6c14363",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Low-Valent\nMetal-Induced Lattice Swelling–Crystalline\nShear Strategy for 2D Nonlamellar MOF Nanosheets",
+      "authors": [
+        "Tengfei Chen",
+        "Jia Wang",
+        "Hongtian Mi",
+        "Yaliu Jian",
+        "Wenyuan Pan",
+        "Jinwei Luo",
+        "Yunpan Ying",
+        "Wenjun Dong",
+        "Dahuan Liu",
+        "Chongli Zhong"
+      ],
+      "doi": "10.1021/acsnano.6c07504",
+      "url": "https://doi.org/10.1021/acsnano.6c07504",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Polarization-Gradient\nEngineering of InGaN Nanorods\nfor Hybrid Mechanical–Optical Energy Harvesting",
+      "authors": [
+        "Sheng-Shong Wong",
+        "Zhen-You Lin",
+        "Ya-Chi Chiu",
+        "Ming-Hao Lee",
+        "Ming-Wen Chu",
+        "Chia-Hao Chen",
+        "Chung-Lin Wu"
+      ],
+      "doi": "10.1021/acsnano.6c09038",
+      "url": "https://doi.org/10.1021/acsnano.6c09038",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Electrogenic\nHfO2/TiO2 Living\nBiointerface Dismantles Metabolic Radioresistance for Amplified Radio-Immunotherapy",
+      "authors": [
+        "Mengen Guo",
+        "Pengcheng Sun",
+        "Wenjie Xu",
+        "Xinyan Hao",
+        "Tiantian Tang",
+        "Xinying Liu",
+        "Dehua Liao",
+        "Jiangshan Zhao",
+        "Hai Huang",
+        "Muyan Li",
+        "Linghao Xu",
+        "Jianing Lin",
+        "Yanjin Peng",
+        "Xinfeng Zhang",
+        "Xiongbin Hu",
+        "Daxiong Xiang",
+        "Junyong Wu"
+      ],
+      "doi": "10.1021/acsnano.6c08241",
+      "url": "https://doi.org/10.1021/acsnano.6c08241",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Oncogenic\nKRAS Regulates Secretion of Extracellular\nVesicles and Surface Membrane Charge via Regulation of Phosphatidylserine\nin Pancreatic Cancer",
+      "authors": [
+        "Paul A. Spezza",
+        "Kshipra S. Kapoor",
+        "Beatrice P. Pforr",
+        "Xin Luo",
+        "Kaira A. Church",
+        "Martin M. Bell",
+        "Bo Fan",
+        "Seoyun Kong",
+        "Elena V. Ramirez",
+        "Yi-Lin Chen",
+        "Fernanda G. Kugeratski",
+        "Sibani Lisa Biswal",
+        "Kathleen M. McAndrews",
+        "Florian Gebauer",
+        "Christoph Kahlert",
+        "Jacob T. Robinson",
+        "Raghu Kalluri"
+      ],
+      "doi": "10.1021/acsnano.6c08263",
+      "url": "https://doi.org/10.1021/acsnano.6c08263",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Synchronous\nMetabolic Interference and Immune Reprogramming\nby a Self-Assembled Bismuth–Phenolic Nanoparticle against\n                    <i>Pseudomonas aeruginosa</i>\n                    -Induced Infections",
+      "authors": [
+        "Haojie Chen",
+        "Rouye Wang",
+        "Fang Liu",
+        "Yutong Li",
+        "Yongcheng Chen",
+        "Youxiang Wang",
+        "Fan Jia",
+        "Jian Ji",
+        "Qiao Jin"
+      ],
+      "doi": "10.1021/acsnano.6c11397",
+      "url": "https://doi.org/10.1021/acsnano.6c11397",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Amplified\nThree-Dimensional Histological Electrophoresis\nSystem for High-Resolution Fluorescence Diagnosis of Tiny Biopsies",
+      "authors": [
+        "Yin Li",
+        "Jiawei Gao",
+        "Jianing Cheng",
+        "Chengbin Zhang",
+        "Limei Qu",
+        "Shoujun Zhu",
+        "Feiran Zhang",
+        "Junhu Zhang"
+      ],
+      "doi": "10.1021/acsnano.6c08434",
+      "url": "https://doi.org/10.1021/acsnano.6c08434",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Solution-Processable\npolyMOF Nanosheets for Fabricating\nCO2 Separation Membranes",
+      "authors": [
+        "Yunchuan Pu",
+        "Guangwei He",
+        "Qian He",
+        "He Li",
+        "Yidan Duan",
+        "Dan Zhao",
+        "Zhongyi Jiang"
+      ],
+      "doi": "10.1021/acsnano.6c14538",
+      "url": "https://doi.org/10.1021/acsnano.6c14538",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Injectable Biodegradable\nNon-Hermitian Biotelemetric\nSystem Enabling Early Diagnosis of Acute Compartment Syndrome",
+      "authors": [
+        "Jie Li",
+        "Jinfeng Zhou",
+        "Jianhui Wu",
+        "Kaihang Zhang",
+        "Yifan Wu",
+        "Congying Shen",
+        "Xinyu Cai",
+        "Jiaqi Lu",
+        "Jiafeng Ni",
+        "Liangquan Xu",
+        "Rui Wan",
+        "Chuanrui Chen",
+        "Fengling Zhuo",
+        "Dinku Hazarika",
+        "Weipeng Xuan",
+        "Jinkai Chen",
+        "Yiying Qi",
+        "Gang Feng",
+        "Jinjin Cao",
+        "Minye Yang",
+        "Zhen Cao",
+        "Hao Jin",
+        "Shurong Dong",
+        "Jikui Luo"
+      ],
+      "doi": "10.1021/acsnano.6c10349",
+      "url": "https://doi.org/10.1021/acsnano.6c10349",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Lipoprotein Corona\nReshapes the Internal Structure\nof Lipid Nanoparticles",
+      "authors": [
+        "Lucrezia Caselli",
+        "Marta Rojas-Rodríguez",
+        "Valentina Pacciani",
+        "Martino Calamai",
+        "Roberto Frigerio",
+        "Andrea Zendrini",
+        "Gennaro Sanità",
+        "Emanuela Esposito",
+        "Anna Leung",
+        "Hanna Wacklin-Knecht",
+        "Ben Humphreys",
+        "Paolo Arosio",
+        "Jacopo Cardellini",
+        "Debora Berti"
+      ],
+      "doi": "10.1021/acsnano.6c09400",
+      "url": "https://doi.org/10.1021/acsnano.6c09400",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "A Metabolic Nanoplatform\nPotentiates Triple-Negative\nBreast Cancer Radiosensitivity via Disrupting Carbonic Anhydrase IX/Pentose\nPhosphate Pathway Crosstalk",
+      "authors": [
+        "Zhili Ma",
+        "Bin Zhao",
+        "Yun Wang",
+        "Shuaishuai Ding",
+        "Yuhua Cao",
+        "Lijuan Zeng",
+        "Yunping Hu",
+        "Xiu-Wu Bian",
+        "Xiao Zhang",
+        "Gan Tian",
+        "Chuan Xu"
+      ],
+      "doi": "10.1021/acsnano.6c06716",
+      "url": "https://doi.org/10.1021/acsnano.6c06716",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Fluorinated Liposome-Coated\nCoacervates: Low-Energy\nInterfaces for Mucus Penetration and Pulmonary Delivery in Acute Respiratory\nDistress Syndrome",
+      "authors": [
+        "Zhangxi Xu",
+        "Xinying Bi",
+        "Zhuo Xiao",
+        "Yang Li",
+        "Xiong Liu",
+        "Xiangjun Ou",
+        "Qian Hu",
+        "Qi Qiao",
+        "Ling Tang",
+        "Xiaonan Li",
+        "Li Kong",
+        "Zhiping Zhang"
+      ],
+      "doi": "10.1021/acsnano.6c13453",
+      "url": "https://doi.org/10.1021/acsnano.6c13453",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Strand-Resolved\nMapping of siRNA Trafficking in Cells\nby Nanoscale Secondary Ion Mass Spectrometry",
+      "authors": [
+        "Kai Chen",
+        "Mehran Nikan",
+        "Xu Li",
+        "Sitao Hu",
+        "Michael T. Migawa",
+        "Jinyu Guo",
+        "Paul Guagliardo",
+        "K. Swaminathan Iyer",
+        "C. Frank Bennett",
+        "Punit P. Seth",
+        "Stephen G. Young",
+        "Haibo Jiang"
+      ],
+      "doi": "10.1021/acsnano.6c08783",
+      "url": "https://doi.org/10.1021/acsnano.6c08783",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Expanding\nCatalytic\nActive Surface via Dual-Phase\nInterfaces for High-Energy-Density Quasi-Solid-State Na–S Batteries",
+      "authors": [
+        "Xuan Lu",
+        "Sicong Jiang",
+        "Hongyang Zhao",
+        "Xiaobo Zheng",
+        "Yiwen Zhang",
+        "Kesong Yang",
+        "Shujiang Ding",
+        "Xiaofei Hu",
+        "Weiyang Li"
+      ],
+      "doi": "10.1021/acsnano.6c12130",
+      "url": "https://doi.org/10.1021/acsnano.6c12130",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Bypassing Lattice\nRegistry: A Nonepitaxial Paradigm\nfor Constructing Hierarchical Heteroarchitectures",
+      "authors": [
+        "Hui Xiong",
+        "Mufan Li",
+        "Xingyu Zhang",
+        "Dahai Yang",
+        "Xianqi Wu",
+        "Sheng Cheng",
+        "Junlei Xiang",
+        "Yifan Fu",
+        "Hongfa Xiang",
+        "Jiaming Ren",
+        "Yong Wang",
+        "Binghui Ge",
+        "Chengyu Song",
+        "Insung Han",
+        "Yeeun Seong",
+        "Juyeong Kim",
+        "Zihao Ou",
+        "Qiubo Zhang",
+        "Xiaohui Song"
+      ],
+      "doi": "10.1021/acsnano.6c05813",
+      "url": "https://doi.org/10.1021/acsnano.6c05813",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Ultralow Voltage\nBias-Switchable Perovskite Photodetectors\nEnabled by Interfacial Deep-Trap Engineering",
+      "authors": [
+        "Ran Zhao",
+        "Guohua Ma",
+        "Zhenwang Luo",
+        "Shareen Shafique",
+        "Feiyu Zhao",
+        "Zhenfu Zhao",
+        "Xu Wang",
+        "Fei Zheng",
+        "Ziyang Hu"
+      ],
+      "doi": "10.1021/acsnano.6c09976",
+      "url": "https://doi.org/10.1021/acsnano.6c09976",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Intraoperatively\nTailorable Vascular Bioelectronics\nfor Personalized Hemodynamic Monitoring",
+      "authors": [
+        "Yutong Li",
+        "Jiaqiang Xu",
+        "Kangdi Guan",
+        "Junhao Hu",
+        "Ruilai Wei",
+        "Kai Jiang",
+        "Zhirong Liu",
+        "Guozhen Shen"
+      ],
+      "doi": "10.1021/acsnano.6c08201",
+      "url": "https://doi.org/10.1021/acsnano.6c08201",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Li-Based Electrochemical\nMemory Achieving Stable Analog\nWeight Modulation via Interface Engineering",
+      "authors": [
+        "Weijian Zhang",
+        "Jieming Xu",
+        "Suyang Xue",
+        "Yumei Xie",
+        "Yuling Zhou",
+        "Hongbin Lin",
+        "Qi Lin",
+        "Liwei Guan",
+        "Zheng Li",
+        "Zhongchong Lin",
+        "Yue Chen",
+        "Oleg V. Kolosov",
+        "Guigui Xu",
+        "Zhigao Huang"
+      ],
+      "doi": "10.1021/acsnano.6c12450",
+      "url": "https://doi.org/10.1021/acsnano.6c12450",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Image-Guided Magnetic\nMicrorobots for Microplastic\nCapture and Biofilm Removal in the Female Reproductive System",
+      "authors": [
+        "Fatma M. Yurtsever",
+        "Sagar Arya",
+        "Ester Maráková",
+        "Roshan Velluvakandy",
+        "Eva Odehnalová",
+        "Jakub Hejč",
+        "Zbyněk Heger",
+        "Martin Pumera"
+      ],
+      "doi": "10.1021/acsnano.6c02432",
+      "url": "https://doi.org/10.1021/acsnano.6c02432",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Revealing Structure-Driven\nPerformance of Molecular-Atomic\nLayer Deposited Resists for Extreme Ultraviolet Lithography through\n                    <i>In Situ</i>\n                    Analysis",
+      "authors": [
+        "Thi Thu Huong Chu",
+        "Dan N. Le",
+        "Minjong Lee",
+        "Dushyant M. Narayan",
+        "Nikhil Tiwale",
+        "Soham Shirodkar",
+        "Doo San Kim",
+        "Myung Mo Sung",
+        "Oleg Kostko",
+        "Chang-Yong Nam",
+        "Jiyoung Kim"
+      ],
+      "doi": "10.1021/acsnano.6c10856",
+      "url": "https://doi.org/10.1021/acsnano.6c10856",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Multifunctional\nMesoporous Calcium-Aluminosilicate\nNanoparticles Enable Heterogeneous Activation of Endogenous Transforming\nGrowth Factor β1 and Rapid Hemostasis for Bone Repair",
+      "authors": [
+        "Chun Xu",
+        "Qingxuan Chen",
+        "Hang Chen",
+        "Aoni Xu",
+        "Juan Wen",
+        "Yiwei Li",
+        "Huan Dai",
+        "Siyuan Liu",
+        "Dan Cheng",
+        "Yaping Song",
+        "Bing Sun",
+        "Jie Tang",
+        "Jie Fan",
+        "Chang Lei",
+        "Chengzhong Yu"
+      ],
+      "doi": "10.1021/acsnano.6c05126",
+      "url": "https://doi.org/10.1021/acsnano.6c05126",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Metallic Nanowire-Film\nHierarchical Structures for\nStretchable Bioelectronic Systems",
+      "authors": [
+        "Tae Yeon Kim",
+        "Sunah Cheong",
+        "Sang Hoon Hong",
+        "Hyunmin Lim",
+        "Jeong Ah Lee",
+        "Bo-Rham Kim",
+        "Hanseo Bae",
+        "Kyulim Lee",
+        "Seung Min Yang",
+        "Tae Wan Park",
+        "Hyunsik Choi",
+        "Tae-im Kim",
+        "Hyoung Seop Kim",
+        "John A. Rogers",
+        "Sei Kwang Hahn"
+      ],
+      "doi": "10.1021/acsnano.6c09711",
+      "url": "https://doi.org/10.1021/acsnano.6c09711",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Laser-Triggered\nMultimodal Cluster Nanobomb for Ultralow-Fluence\nVitreolysis and Vitreous Homeostasis Restoration",
+      "authors": [
+        "Xinxin Liang",
+        "Muse Ji",
+        "Ce Shi",
+        "Jian Zhao",
+        "Tao Wu",
+        "Hongbing Liu",
+        "Jingxin Gou",
+        "Haibing He",
+        "Tian Yin",
+        "Xing Tang",
+        "Ye Liu",
+        "Jiangyue Zhao",
+        "Yu Zhang"
+      ],
+      "doi": "10.1021/acsnano.6c10692",
+      "url": "https://doi.org/10.1021/acsnano.6c10692",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Atomic\nObservation of Initial Oxidation of Metal:\nFrom Oscillating Incubation to Catastrophic Depletion",
+      "authors": [
+        "Yujie Song",
+        "Tao Zheng",
+        "Huangliu Fu",
+        "Huichao Duan",
+        "Xiuyan Li",
+        "Kui Du"
+      ],
+      "doi": "10.1021/acsnano.6c12548",
+      "url": "https://doi.org/10.1021/acsnano.6c12548",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "A\nDNA-Scaffolded\nNatural Killer Cell with Adaptable\nMultimodules for Enhanced Immunotherapy and Early Efficiency Reporting",
+      "authors": [
+        "Chengfeng Cai",
+        "Jieyu Shen",
+        "Yu Zhu",
+        "Zhicong Chao",
+        "Ruyue Wang",
+        "Huangxian Ju",
+        "Ying Liu"
+      ],
+      "doi": "10.1021/acsnano.6c10559",
+      "url": "https://doi.org/10.1021/acsnano.6c10559",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Nanobodies Equipped\nwith HaloTag Enable Scalable Fluorescence-Lifetime\nMultiplexing",
+      "authors": [
+        "László Albert",
+        "Samrat Basak",
+        "Henrike Körner",
+        "Nazar Oleksiievets",
+        "Nikolaos Mougios",
+        "Elena R. Cotroneo",
+        "Michelle S. Frei",
+        "Jörg Enderlein",
+        "Johannes Broichhagen",
+        "Nadja A. Simeth",
+        "Roman Tsukanov",
+        "Felipe Opazo"
+      ],
+      "doi": "10.1021/acsnano.6c08378",
+      "url": "https://doi.org/10.1021/acsnano.6c08378",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
+      "title": "Electronically Active\nPolydiacetylene-Functionalized\nBiomimetic Nanosheets",
+      "authors": [
+        "Jon Babi",
+        "Christine Hood",
+        "Olivia Mann-Delany",
+        "Guillermo Lozano-Onrubia",
+        "Angela Lin",
+        "Blakely Tresca",
+        "Landon J. Edgar",
+        "Helen Tran"
+      ],
+      "doi": "10.1021/acsnano.6c05166",
+      "url": "https://doi.org/10.1021/acsnano.6c05166",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "Angew",
+      "title": "Modifications of Lysine Residues 294 and 311 Within the Microtubule‐Binding Region Alter Tau Aggregation and Tubulin Binding Equilibria",
+      "authors": [
+        "Dominik P. Vogl",
+        "Mario Migotti",
+        "Robert Konrat",
+        "Anne C. Conibear",
+        "Christian F. W. Becker"
+      ],
+      "doi": "10.1002/anie.1521091",
+      "url": "https://doi.org/10.1002/anie.1521091",
+      "posted_date": "2026-09-03",
+      "status": "EarlyView"
+    },
+    {
+      "journal": "Angew",
+      "title": "A Dual Locking Strategy Enables Highly Selective\n                    <i>meta</i>\n                    ‐Xylene Separation With an Aluminum‐Pyrrolic Framework",
+      "authors": [
+        "Wen‐Qi Tang",
+        "Wang Li",
+        "Han‐Xi Guan",
+        "Cheng‐Yu Rong",
+        "Wen‐Chu Huang",
+        "Xu Gao",
+        "Yu Qi",
+        "Ming Xu",
+        "Zhi‐Yuan Gu"
+      ],
+      "doi": "10.1002/anie.4842714",
+      "url": "https://doi.org/10.1002/anie.4842714",
+      "posted_date": "2026-09-03",
+      "status": "EarlyView"
+    },
+    {
+      "journal": "Angew",
+      "title": "Broad‐Spectrum, Cell Envelope‐Active Marinocyclin Antibiotics From a Coral‐Derived Bacterium Are Effective Against Colistin‐Resistant Bacteria",
+      "authors": [
+        "Clara Chepkirui",
+        "Sandra Silva",
+        "Jan Straetener",
+        "Chandrashekhar Padhi",
+        "Tina Keller‐Costa",
+        "Tess Lamer",
+        "Laura Reinke",
+        "Heike Brötz‐Oesterhelt",
+        "Rodrigo Costa",
+        "Jörn Piel"
+      ],
+      "doi": "10.1002/anie.7705008",
+      "url": "https://doi.org/10.1002/anie.7705008",
+      "posted_date": "2026-09-03",
+      "status": "EarlyView"
+    },
+    {
+      "journal": "Angew",
+      "title": "Crystallization Manipulation Through Buried Pyridinium‐Induced Tunable Interactions in Perovskite Solar Cells",
+      "authors": [
+        "Xingzheng Yan",
+        "Songyu Du",
+        "Xinyu Tong",
+        "Yihao Mo",
+        "Jiahan Xie",
+        "Yanyang Zhou",
+        "Yuan Luan",
+        "Mengjin Yang",
+        "Lisha Xie",
+        "Ziyi Ge"
+      ],
+      "doi": "10.1002/anie.1360189",
+      "url": "https://doi.org/10.1002/anie.1360189",
+      "posted_date": "2026-09-03",
+      "status": "EarlyView"
+    },
+    {
+      "journal": "Angew",
+      "title": "Polypyridyl Coordination Motifs as Precursors for Ordered Carbonaceous Frameworks Toward High‐Density Ru Single‐Atom Catalysts",
+      "authors": [
+        "Koki Chida",
+        "Tan‐Hao Shi",
+        "Takeharu Yoshii",
+        "Yuichiro Hayasaka",
+        "Yu Gao",
+        "Hao Zhang",
+        "Nikolay Kosinov",
+        "Shigehisa Akine",
+        "Kazuhide Kamiya",
+        "Kaining Li",
+        "Yoshifumi Kondo",
+        "Yasutaka Kuwahara",
+        "Tomoki Ogoshi",
+        "Hirotomo Nishihara"
+      ],
+      "doi": "10.1002/anie.6197340",
+      "url": "https://doi.org/10.1002/anie.6197340",
+      "posted_date": "2026-09-03",
+      "status": "EarlyView"
+    },
+    {
+      "journal": "Angew",
+      "title": "Dual\n                    <i>d–</i>\n                    <i>p</i>\n                    hybridization in Ternary PtGaGe Enables Concurrent Activity and Stability Enhancement for Alkaline Oxygen Reduction",
+      "authors": [
+        "Qian Zhang",
+        "Jinting Wu",
+        "Yong‐Chao Zhang",
+        "Lijun Tang",
+        "Xingchun Shi",
+        "Jian Gao",
+        "Tiansheng Mu",
+        "Xiaoli Zhang",
+        "Xiao‐Dong Zhu"
+      ],
+      "doi": "10.1002/anie.6156560",
+      "url": "https://doi.org/10.1002/anie.6156560",
+      "posted_date": "2026-09-03",
+      "status": "EarlyView"
+    },
+    {
+      "journal": "Angew",
+      "title": "Noncanonical Peloruside A Biosynthesis by an Uncultivated Verrucomicrobiota Symbiont",
+      "authors": [
+        "Amy E. Fraley",
+        "Michael Rust",
+        "Moritz Wagner",
+        "Ida R. Hipfinger",
+        "Paul J. N. Böhm",
+        "Cora L. Dieterich",
+        "Christopher M. Field",
+        "Michael J. Page",
+        "Jeremy G. Owen",
+        "Robert A. Keyzers",
+        "Shinichi Sunagawa",
+        "Jörn Piel"
+      ],
+      "doi": "10.1002/anie.2011872",
+      "url": "https://doi.org/10.1002/anie.2011872",
+      "posted_date": "2026-09-03",
+      "status": "EarlyView"
+    },
+    {
+      "journal": "Angew",
+      "title": "The Creation of a Dual‐End Interface in Li─S Cathode by Anchoring Independent Metal Atoms on Graphdiyne",
+      "authors": [
+        "Jingxiang Yang",
+        "Changshui Huang",
+        "Jingchi Gao",
+        "Xingru Yan",
+        "Zhaozhong Wang",
+        "Ruiqiao Wu",
+        "Xinlong Fu",
+        "Yi Wang",
+        "Feng He",
+        "Hongjie Zhang",
+        "Yuliang Li"
+      ],
+      "doi": "10.1002/anie.2060850",
+      "url": "https://doi.org/10.1002/anie.2060850",
+      "posted_date": "2026-09-03",
+      "status": "EarlyView"
+    },
+    {
+      "journal": "Angew",
+      "title": "Achieve the Full‐Wavelength Photoexcited Pyroelectricity in Perovskite Ferroelectric for Long‐Wave Infrared Detection",
+      "authors": [
+        "Liwei Tang",
+        "Yujie Zhong",
+        "Jialu Chen",
+        "Ji Qi",
+        "Yi Liu",
+        "Yu Ma",
+        "Chen Gong",
+        "Shuncong Zhong",
+        "Junhua Luo",
+        "Zhihua Sun"
+      ],
+      "doi": "10.1002/anie.1197888",
+      "url": "https://doi.org/10.1002/anie.1197888",
+      "posted_date": "2026-09-03",
+      "status": "EarlyView"
+    },
+    {
+      "journal": "Angew",
+      "title": "Reversible Symmetry Switching, Giant Birefringence, and UV Second‐Harmonic Generation in Hybrid Niobium Oxyfluorides",
+      "authors": [
+        "Sooyeon Lee",
+        "Wei Zeng",
+        "Congcong Jin",
+        "Chong‐An Chen",
+        "Kang Min Ok"
+      ],
+      "doi": "10.1002/anie.9788311",
+      "url": "https://doi.org/10.1002/anie.9788311",
+      "posted_date": "2026-09-03",
+      "status": "EarlyView"
+    },
+    {
+      "journal": "Angew",
+      "title": "Stabilizing Perovskite/Electrode Interface With Tailored 2D/1D Stacking Layer",
+      "authors": [
+        "Changke Jiang",
+        "Mingxun Liu",
+        "Delong Han",
+        "Fuwei Deng",
+        "Jinming Wu",
+        "Xiao Cheng",
+        "Zhaolai Chen"
+      ],
+      "doi": "10.1002/anie.8387616",
+      "url": "https://doi.org/10.1002/anie.8387616",
+      "posted_date": "2026-09-03",
+      "status": "EarlyView"
+    },
+    {
+      "journal": "Angew",
+      "title": "Ligand‐Controlled Chemodivergent Telomerization and Hydrofunctionalization of Isoprene With Hydrazones Under Ni Catalysis",
+      "authors": [
+        "Li‐Ming Zhang",
+        "Zihan Li",
+        "Zhi‐Yuan Ding",
+        "Ting‐Ting Song",
+        "Yilitabaier Julaiti",
+        "Ding‐Wei Ji",
+        "Zhi‐Shi Ye",
+        "Xinglong Zhang",
+        "Qing‐An Chen"
+      ],
+      "doi": "10.1002/anie.4023427",
+      "url": "https://doi.org/10.1002/anie.4023427",
+      "posted_date": "2026-09-03",
+      "status": "EarlyView"
+    },
+    {
+      "journal": "Angew",
+      "title": "Oxygen Serves as an Electron Acceptor for Efficient Photocatalytic Acetylene Hydrochlorination in Seawater",
+      "authors": [
+        "Zhenpeng Liu",
+        "Wenxiu Ma",
+        "Jiaxin He",
+        "Rui Bai",
+        "Jin Lin",
+        "Chang Liu",
+        "Zhi‐Hao Zhao",
+        "Linjia Li",
+        "Jian Zhang"
+      ],
+      "doi": "10.1002/anie.9030516",
+      "url": "https://doi.org/10.1002/anie.9030516",
+      "posted_date": "2026-09-03",
+      "status": "EarlyView"
+    },
+    {
+      "journal": "JACS",
+      "title": "A Ruthenium Dihydride-Catalyzed\nHydrogenation of Thioureas:\nA Mild and Practical Approach from CS2 to Methanethiol",
+      "authors": [
+        "Jun Zhu",
+        "Yongtao Wang",
+        "Xinyu Yang",
+        "Jia Yao",
+        "Haoran Li"
+      ],
+      "doi": "10.1021/jacs.6c11733",
+      "url": "https://doi.org/10.1021/jacs.6c11733",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Discovery\nof an Ultrasound-Responsive Arylurea-Dihydrotetrazine\nArchitecture for Ultrasound-Programmed Bioorthogonal Chemistry",
+      "authors": [
+        "Shuanglong Chen",
+        "Jiaxin Chang",
+        "Mingxin Cheng",
+        "Chao Ban",
+        "Weiwei Guo",
+        "Yueqin Zheng"
+      ],
+      "doi": "10.1021/jacs.6c13439",
+      "url": "https://doi.org/10.1021/jacs.6c13439",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Catalytic Regulation\nof Cluster-Mediated Growth Enables\nScalable Synthesis of Shape-Controlled Single-Crystalline Silver Nanocrystals",
+      "authors": [
+        "Yasutaka Nagaoka",
+        "Eun Mi Kim",
+        "Zhenyang Liu",
+        "William L. Robinson",
+        "Junbin Li",
+        "Meg Shieh",
+        "Ankai Wang",
+        "Jaspreet Kaur",
+        "Ding Zhu",
+        "Rongzhen Wu",
+        "Yuzi Liu",
+        "Sooyeon Hwang",
+        "Vicki L. Colvin",
+        "Shengli Zou",
+        "Ming Xian",
+        "Milad Abolhasani",
+        "Kristen A. Fichthorn",
+        "Ou Chen"
+      ],
+      "doi": "10.1021/jacs.6c12925",
+      "url": "https://doi.org/10.1021/jacs.6c12925",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Anisotropic Defect-Induced\nOrbital Reordering Enables\nCoherent Charge Redistribution and Selective Photocatalytic CO2 Reduction in Metal–Organic Frameworks",
+      "authors": [
+        "Cheng Cheng",
+        "Oleg V. Prezhdo",
+        "Run Long"
+      ],
+      "doi": "10.1021/jacs.6c11795",
+      "url": "https://doi.org/10.1021/jacs.6c11795",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Computing Nucleation\nRates from Confined Equilibria:\nThe Critical Cluster Equivalence Principle",
+      "authors": [
+        "Lunna Li",
+        "Fabienne Bachtiger",
+        "Aaron R. Finney",
+        "Erik E. Santiso",
+        "Matteo Salvalaglio"
+      ],
+      "doi": "10.1021/jacs.6c09002",
+      "url": "https://doi.org/10.1021/jacs.6c09002",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Nickel-Catalyzed\nRegio-Controllable α- or β-Hydroalkylation\nof α,β-Unsaturated Amides",
+      "authors": [
+        "Tingzhi Lin",
+        "Guorong Li",
+        "Jiaxin Lu",
+        "Yan-En Wang",
+        "Shenhao Zuo",
+        "Baohao Zheng",
+        "Zifan Ding",
+        "Shangle Yang",
+        "Dan Xiong",
+        "Xiufang Xu",
+        "Patrick J. Walsh",
+        "Jianyou Mao"
+      ],
+      "doi": "10.1021/jacs.6c05261",
+      "url": "https://doi.org/10.1021/jacs.6c05261",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "A General Photoredox\nPlatform for the Hydroarylation\nof Olefins",
+      "authors": [
+        "Yi-Lun Li",
+        "Johnny Z. Wang",
+        "David W. C. MacMillan"
+      ],
+      "doi": "10.1021/jacs.6c14333",
+      "url": "https://doi.org/10.1021/jacs.6c14333",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Topological\nControl of Carbon Nanohoops for Boosted\nLong-Range Coherent Transport",
+      "authors": [
+        "Chengjia Jing",
+        "Xinyu Zhang",
+        "Xuwei Song",
+        "Kai Song",
+        "Junfeng Lin",
+        "Bowen Yang",
+        "Yongfeng Wang",
+        "Pingwu Du",
+        "Daoben Zhu",
+        "Yaping Zang"
+      ],
+      "doi": "10.1021/jacs.6c14293",
+      "url": "https://doi.org/10.1021/jacs.6c14293",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Light-Triggered Decoding\nof Hydrophobic Interactions\nin Living Systems",
+      "authors": [
+        "Peng Ji",
+        "Stormi R. Chadwick",
+        "Alexander Harjung",
+        "Wei-An Chen",
+        "Neal K. Devaraj"
+      ],
+      "doi": "10.1021/jacs.6c11056",
+      "url": "https://doi.org/10.1021/jacs.6c11056",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Mechanistic Insights\ninto Photo-Induced Bond Dissociation\nof a 2-(4-Nitrophenyl)-1H-indole-3-ylmethyl (NPIM) Derivative:\nA Case Study on Quantum Spin-Manipulation for Uncaging",
+      "authors": [
+        "Kenta Kuroishi",
+        "Ryuei Hayashi",
+        "Ryoko Oyama",
+        "Shunsuke Tanaka",
+        "Kotaro Ogawa",
+        "Yuta Murotani",
+        "Ryusuke Matsunaga",
+        "Jun Yoshinobu",
+        "Manabu Abe"
+      ],
+      "doi": "10.1021/jacs.6c13942",
+      "url": "https://doi.org/10.1021/jacs.6c13942",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Compositional Effects\non Proton and Oxygen Ion Transport\nin BaCo\n                    <i>x</i>\n                    Fe0.8–\n                    <i>x</i>\n                    Zr0.1Y0.1O3−δ (BCFZY)",
+      "authors": [
+        "Kennedy Agyekum",
+        "Zhen Jiang",
+        "Bernadette Cladek",
+        "Yewon Shin",
+        "Ryan O’Hayre",
+        "Christopher Wolverton",
+        "Sossina M. Haile",
+        "Jue Liu",
+        "Katharine Page"
+      ],
+      "doi": "10.1021/jacs.6c04096",
+      "url": "https://doi.org/10.1021/jacs.6c04096",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Highly\nCharged Porphyrin Molecular Wires",
+      "authors": [
+        "Janko Hergenhahn",
+        "Sebastian M. Kopp",
+        "Edward R. Champness",
+        "Damyan Frantzov",
+        "Kavita Rani",
+        "Arzhang Ardavan",
+        "Harry L. Anderson",
+        "Christiane R. Timmel"
+      ],
+      "doi": "10.1021/jacs.6c09441",
+      "url": "https://doi.org/10.1021/jacs.6c09441",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Whole-Virus\nScreening Coupled with Uncertainty-Aware\nDeep Learning Enables Discovery of Virus-Binding scFvs",
+      "authors": [
+        "Kailin Feng",
+        "Jonathan Parkinson",
+        "Ryan Hard",
+        "Dan Wang",
+        "Zekai Zhao",
+        "Yiyan Yu",
+        "Zhidong Zhou",
+        "Rui Wang",
+        "Jiayuan Alex Zhang",
+        "Edward Zhang",
+        "Weiwei Gao",
+        "Wei Wang",
+        "Liangfang Zhang"
+      ],
+      "doi": "10.1021/jacs.6c11220",
+      "url": "https://doi.org/10.1021/jacs.6c11220",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Nickel-Electrocatalyzed\nAnodic Enantioselective Acyloxylation\nand Cathodic Deacyloxylation of C–O Bonds",
+      "authors": [
+        "Kang Liang",
+        "Minghao Liu",
+        "Chang Guo"
+      ],
+      "doi": "10.1021/jacs.6c14548",
+      "url": "https://doi.org/10.1021/jacs.6c14548",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Decoupling CO2 Availability from Bulk Solubility\nvia Biohybrid Reaction–Diffusion Nanoconfinement",
+      "authors": [
+        "Fhysmélia F. Albuquerque",
+        "Artur C. Souza",
+        "Matheus S Corsino",
+        "Lucas D. Paquini",
+        "Graziela C. Sedenho",
+        "Rafael N. P. Colombo",
+        "Fabio H. B. Lima",
+        "Frank N. Crespilho"
+      ],
+      "doi": "10.1021/jacs.6c12039",
+      "url": "https://doi.org/10.1021/jacs.6c12039",
+      "posted_date": "2026-08-31",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Native Proteomics Reveals\nProtease-Mediated Hemophore\nRelease by Bacterial Pathogens",
+      "authors": [
+        "Andrew K. Goring",
+        "Lindsey R. Lyman",
+        "Jordan Ford",
+        "Jingjing Huang",
+        "Christopher Mullen",
+        "Rafael D. Melani",
+        "Michael P. Schmitt",
+        "Robert T. Clubb",
+        "Joseph A. Loo"
+      ],
+      "doi": "10.1021/jacs.6c04584",
+      "url": "https://doi.org/10.1021/jacs.6c04584",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Potassium Amide-Promoted\nDirect Synthesis of α-Aryl\nNitriles from α-Aryl Alkenes",
+      "authors": [
+        "Peng Zhang",
+        "Shixiong Zhang",
+        "Yongli Cai",
+        "Li Rao",
+        "Junnian Wei",
+        "Jianping Guo",
+        "Ping Chen"
+      ],
+      "doi": "10.1021/jacs.6c14965",
+      "url": "https://doi.org/10.1021/jacs.6c14965",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Electrochemical\nDeoxygenation of a TiIV–Oxo Complex to Enable Catalytic\nReductive Oxygen-Atom Transfer\nfrom Organic Molecules",
+      "authors": [
+        "Ruohan Deng",
+        "Tianxiao Jiang",
+        "Haoran Chen",
+        "Ilia A. Guzei",
+        "Leah C. Garman",
+        "Xianyuan Zhao",
+        "Yang Yang",
+        "Shannon S. Stahl"
+      ],
+      "doi": "10.1021/jacs.6c11967",
+      "url": "https://doi.org/10.1021/jacs.6c11967",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Mapping\nthe Chemical Space of TADF Sensitizers Coupled\nwith Virtual Screening for Narrowband Hyperfluorescence OLEDs",
+      "authors": [
+        "Yayin Deng",
+        "Yimin Wu",
+        "Xingliang Wang",
+        "Xiaoyu Liu",
+        "Zhengyang Bin",
+        "Jingsong You"
+      ],
+      "doi": "10.1021/jacs.6c15924",
+      "url": "https://doi.org/10.1021/jacs.6c15924",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "The\nObligate Mutualism in Metal Nanoclusters",
+      "authors": [
+        "Jiahao Li",
+        "Guowei Guan",
+        "Chun Pei",
+        "Xi Chen",
+        "Runguo Wang",
+        "Wenlong Wang",
+        "Lingwen Liao",
+        "Qihang Wang",
+        "Dingfei Yan",
+        "Xuyun Ding",
+        "Shengli Zhuang",
+        "Zhikun Wu"
+      ],
+      "doi": "10.1021/jacs.6c12226",
+      "url": "https://doi.org/10.1021/jacs.6c12226",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Digital Nanopore Counting\nEnabling Direct Identification\nof Trace-Level Neoantigens in Native Biological Samples",
+      "authors": [
+        "Yan Gao",
+        "Yunze Wu",
+        "Jie Jiang",
+        "Hongyan Niu",
+        "Jun-Ge Li",
+        "Siyang Liu",
+        "Meng-Yin Li",
+        "Jie P. Li",
+        "Yi-Tao Long"
+      ],
+      "doi": "10.1021/jacs.6c11903",
+      "url": "https://doi.org/10.1021/jacs.6c11903",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Simultaneous\nSite- and Residue-Specific Incorporation\nof Fluorinated Amino Acids for In-Cell Structural Biology by 19F Magic Angle Spinning NMR Spectroscopy",
+      "authors": [
+        "Kumar Tekwani Movellan",
+        "Angela M. Gronenborn",
+        "Tatyana Polenova"
+      ],
+      "doi": "10.1021/jacs.6c10748",
+      "url": "https://doi.org/10.1021/jacs.6c10748",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Group Transfer Radical\nPolymerization of Sulfone-Substituted\nAliphatic Alkynes",
+      "authors": [
+        "Silin Song",
+        "Guodan Lu",
+        "Xianjin Wang",
+        "Chen Zhu"
+      ],
+      "doi": "10.1021/jacs.6c16074",
+      "url": "https://doi.org/10.1021/jacs.6c16074",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Electrode Potential\nin Ionic Liquid Enlightened by\nLiquid Madelung Theory",
+      "authors": [
+        "Yusuke Irie",
+        "Atsushi Kitada",
+        "Longjie Liu",
+        "Norio Takenaka",
+        "Atsuo Yamada"
+      ],
+      "doi": "10.1021/jacs.6c09488",
+      "url": "https://doi.org/10.1021/jacs.6c09488",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Wide-Temperature-Range\nNear-Zero Thermal Expansion\nvia Stuffing-Controlled Dynamics in Diamond-Like Materials",
+      "authors": [
+        "Yingjian Li",
+        "Tianshu Li",
+        "Yuhao Fu",
+        "David J. Singh",
+        "Lijun Zhang"
+      ],
+      "doi": "10.1021/jacs.6c10467",
+      "url": "https://doi.org/10.1021/jacs.6c10467",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Epoxide-Mediated Carbon\nDioxide Coupling Yields the\nFive-Membered Cyclic Carbonate in Cytosporin Biosynthesis",
+      "authors": [
+        "Hua Xiao",
+        "Yong He",
+        "Xiufeng Zhang",
+        "Chenran Xu",
+        "Yongxiang Song",
+        "Menglan Luo",
+        "Yanqin Li",
+        "Huijuan Li",
+        "Xianglong Zhu",
+        "Jian Cai",
+        "Wan-Shan Li",
+        "Yan Yan"
+      ],
+      "doi": "10.1021/jacs.6c12612",
+      "url": "https://doi.org/10.1021/jacs.6c12612",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Light-Driven Active\nSeparation Sustains a Transmembrane\nProton-Activity Difference for Electrochemical Microenvironment Regulation",
+      "authors": [
+        "Zhuozhi Lai",
+        "Zhiwei Xing",
+        "Yongxin Ge",
+        "Jiaming Yi",
+        "Sai Wang",
+        "Ruotian Chen",
+        "Shengqian Ma",
+        "Qi Sun"
+      ],
+      "doi": "10.1021/jacs.6c10380",
+      "url": "https://doi.org/10.1021/jacs.6c10380",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Reconfiguring\nLone-Pair Electrons for High-Performance\nn-Type SnSe Thermoelectrics",
+      "authors": [
+        "Baocheng Yuan",
+        "Shulin Bai",
+        "Yi Wen",
+        "Yixuan Hu",
+        "Lei Wang",
+        "Rong Liu",
+        "Yongjin Chen",
+        "Lizhong Su",
+        "Cheng Chang",
+        "Li-Dong Zhao"
+      ],
+      "doi": "10.1021/jacs.6c15566",
+      "url": "https://doi.org/10.1021/jacs.6c15566",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Spirobifluorene-Cored\nTetrameric Acceptors with a\nPerpendicular Interlocking Toroidal Topology for Efficient and Stable\nOrganic Solar Cells",
+      "authors": [
+        "Yaxin He",
+        "Rui Sun",
+        "Zhonghao Qi",
+        "Xianqiang Xie",
+        "Cheng Zhong",
+        "Xianglang Sun",
+        "Laju Bu",
+        "Jie Min",
+        "Zhong’an Li"
+      ],
+      "doi": "10.1021/jacs.6c06602",
+      "url": "https://doi.org/10.1021/jacs.6c06602",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "3D-to-3D Topotactic\nTransformation in Extra-Large-Pore\nPure-Silica Zeolite",
+      "authors": [
+        "Feng Jiao",
+        "Zhenghan Zhang",
+        "Jing Niu",
+        "Ziyi Zhao",
+        "Shutao Xu",
+        "Aimin Gong",
+        "Jian Li",
+        "Donghai Mei",
+        "Feijian Chen",
+        "Hongbin Du",
+        "Jihong Yu"
+      ],
+      "doi": "10.1021/jacs.6c05613",
+      "url": "https://doi.org/10.1021/jacs.6c05613",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Family\nof β-Propeller Diels–Alderases\nDirects\n                    <i>cis</i>\n                    -Decalin Formation in Polyketide Biosynthesis",
+      "authors": [
+        "Er Juan Zhao",
+        "Qing Yan Ling",
+        "Xiu Xiu Ma",
+        "Shuang He Liu",
+        "Ao Zhu",
+        "Zhang Yuan Yan",
+        "Hong Jie Zhu",
+        "Zhen Peng Mai",
+        "Yasuhiro Igarashi",
+        "Rui Hua Jiao",
+        "Bo Zhang",
+        "Hui Ming Ge"
+      ],
+      "doi": "10.1021/jacs.6c12942",
+      "url": "https://doi.org/10.1021/jacs.6c12942",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Large-Mesopore Covalent\nOrganic Framework Nanoparticles\nfor Small Interfering RNA Delivery toward Cancer Immunotherapy",
+      "authors": [
+        "Renzeng Chen",
+        "Haiyin Yang",
+        "Huiping Zhu",
+        "Lihua Wu",
+        "Zhitong Guo",
+        "Xi Yu",
+        "Jie Wang",
+        "Yuanbo Wang",
+        "Yuanyu Huang",
+        "Bo Wang"
+      ],
+      "doi": "10.1021/jacs.6c10067",
+      "url": "https://doi.org/10.1021/jacs.6c10067",
+      "posted_date": "2026-09-01",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Programmable Organic\nQuasi-Superlattices with Molecular-Monolayer\nPrecision for Enhanced Photoconductive Response",
+      "authors": [
+        "Wenbin Li",
+        "Xin Wang",
+        "Zhumin Yu",
+        "Jun Li",
+        "Ming Li",
+        "Baichuan Jiang",
+        "Cailing Ou",
+        "Tingyu Ji",
+        "Nannan Dou",
+        "Xiaoru Cao",
+        "Zixiao Han",
+        "Lei Zhang"
+      ],
+      "doi": "10.1021/jacs.6c10274",
+      "url": "https://doi.org/10.1021/jacs.6c10274",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Construction of Orientationally\nOrdered Organometallic\nChains by Directional Noncovalent Interactions",
+      "authors": [
+        "Jie Li",
+        "Zhen Xu",
+        "Hongxiang Xu",
+        "Haoyang Pan",
+        "Tianhao Wu",
+        "Minghui Yu",
+        "Yan Zhao",
+        "Xin Li",
+        "Shang-Da Jiang",
+        "Kai Wu",
+        "Lian-Mao Peng",
+        "Shimin Hou",
+        "Peng He",
+        "Song Gao",
+        "Yongfeng Wang",
+        "Yajie Zhang"
+      ],
+      "doi": "10.1021/jacs.5c21999",
+      "url": "https://doi.org/10.1021/jacs.5c21999",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Enhanced\nCatalytic Dechlorination of Polyvinyl Chloride\n(PVC) and H2 Production Enabled by Synergistic Gaδ+/Ga0 Active Sites in Liquid Metal Particles",
+      "authors": [
+        "Benjamin H. Crockett Zingg",
+        "Nabihan B. Abdul Rahman",
+        "Nishu Devi",
+        "Anya Zornes",
+        "Joshua T. Damron",
+        "Ernesto C. Zuleta S.",
+        "Yan-Ru Lin",
+        "José David Arregui-Mena",
+        "Chang Liu",
+        "Murillo Longo Martins",
+        "Shukai Yao",
+        "Mo Li",
+        "De-en Jiang",
+        "Harry M. Meyer",
+        "Zili Wu",
+        "Felipe Polo-Garzon"
+      ],
+      "doi": "10.1021/jacs.6c09418",
+      "url": "https://doi.org/10.1021/jacs.6c09418",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Matching Helical and\nSupramolecular Chirality in a\nPerylene Diimide Dimer: Impact on (Chir)Optical Properties",
+      "authors": [
+        "Mya Kotecha",
+        "Denis Hartmann",
+        "Artemijs Krimovs",
+        "Oussama Errida",
+        "Tiberiu-M. Gianga",
+        "Georgia R.F. Orton",
+        "Giuliano Siligardi",
+        "Robert Pal",
+        "Giovanni Bressan",
+        "Timothy A. Barendt"
+      ],
+      "doi": "10.1021/jacs.6c11478",
+      "url": "https://doi.org/10.1021/jacs.6c11478",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "5-\n                    <i>t</i>\n                    Bu-Thalidomide\nIs a Selective Molecular Glue Degrader of the Transcription Factor\nFLT3 Interacting Zinc Finger 1 (FIZ1)",
+      "authors": [
+        "Patrick J. Brennan",
+        "Ruiyang Guo",
+        "Alban Ordureau",
+        "Sarah E. Singleton",
+        "Miranda Li",
+        "Fatma Albayrak",
+        "Connor H. Chang",
+        "Lorena Yu Liao",
+        "Charlotte M. Deane",
+        "Kendall N. Houk",
+        "Michael M. Hann",
+        "Lewis L. Brayshaw",
+        "Heeseon An",
+        "Stuart J. Conway"
+      ],
+      "doi": "10.1021/jacs.6c14185",
+      "url": "https://doi.org/10.1021/jacs.6c14185",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Decoupling Local Chemistry\nand Electrostatics for\nScalable and Accurate Prediction of Core-Level Binding Energies",
+      "authors": [
+        "Jian Liu",
+        "Bo Yang"
+      ],
+      "doi": "10.1021/jacs.6c08089",
+      "url": "https://doi.org/10.1021/jacs.6c08089",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Anisotropic\nLattice Compression Enables Defect-Rich\nLithium-Ion Transport Channels for Extremely Fast-Charging Lithium-Ion\nBatteries",
+      "authors": [
+        "Xin Cheng",
+        "Huang Xiao",
+        "Wenjing Zhang",
+        "Min Liu",
+        "Cong Tian",
+        "Kaiquan He",
+        "Haibo Li",
+        "Fang Li",
+        "Guoxing Li"
+      ],
+      "doi": "10.1021/jacs.6c12219",
+      "url": "https://doi.org/10.1021/jacs.6c12219",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Biosynthesis of YM-216391\nUnveils a Bifunctional α-Ketoglutarate-Dependent\nEnzyme Catalyzes Hydroxylation and Epimerization in RiPPs",
+      "authors": [
+        "Kai Zhang",
+        "Lian Wu",
+        "Min-Jie Yang",
+        "Jun-Bin He",
+        "Yifeng Chen",
+        "Zeng-Fei Pei",
+        "Gong-Li Tang"
+      ],
+      "doi": "10.1021/jacs.6c11815",
+      "url": "https://doi.org/10.1021/jacs.6c11815",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "AbSynth: A Century\nof Total Syntheses as a Machine-Readable\nResource for Analyzing Strategic Logic in Organic Chemistry",
+      "authors": [
+        "Maciej Czuba",
+        "Konrad Barnowski",
+        "Karol Molga",
+        "Zofia Pławecka",
+        "Agnieszka Wołos",
+        "Szymon Stodółkiewicz",
+        "Sebastian Baś",
+        "Wojciech Petrykowski",
+        "Wiktor Beker",
+        "Evan Saillard",
+        "Konrad Łęgowski",
+        "Rafał Roszak",
+        "Paweł Kowalczyk",
+        "Barbara Mikulak-Klucznik",
+        "Piotr Janasz",
+        "Emilia Mielke",
+        "Patrycja Pietruszewska",
+        "Maja Łazuchiewicz",
+        "Sylwia Wójcik",
+        "Jakub Zabielski",
+        "Dariusz Nostkiewicz",
+        "Gabriela Smaga",
+        "Ahmad Makkawi",
+        "Louis P. J.-L. Gadina",
+        "Jakub Skoczek",
+        "Tomasz Klucznik",
+        "Maxence Deschamps",
+        "Anna Żądło-Dobrowolska",
+        "Michał Michalak",
+        "Sara Szymkuć",
+        "Daniel T. Gryko",
+        "Yasemin Bilgi-Gadina",
+        "Bartosz A. Grzybowski"
+      ],
+      "doi": "10.1021/jacs.6c08434",
+      "url": "https://doi.org/10.1021/jacs.6c08434",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Chiral-4′-Methyl-α-(\n                    <scp>l</scp>\n                    )-Threofuranosyl Nucleic Acids: Synthesis, Structure,\nBinding\nAffinity, Nuclease Resistance, and Polymerase Recognition",
+      "authors": [
+        "Atsushi Mikami",
+        "Dhrubajyoti Datta",
+        "Jayanta Kundu",
+        "Vathan Kumar",
+        "Namrata Erande",
+        "Esau Medina",
+        "Victoria A. Maola",
+        "Erica M. Lee",
+        "Shigeo Matsuda",
+        "Joel M. Harp",
+        "Martin Egli",
+        "John C. Chaput",
+        "Muthiah Manoharan"
+      ],
+      "doi": "10.1021/jacs.6c07051",
+      "url": "https://doi.org/10.1021/jacs.6c07051",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Activated\nMigration of Localized Ligand-Field Excitons\nin Atomically Thin CrCl3",
+      "authors": [
+        "Hyesun Kim",
+        "Renlong Liu",
+        "Sangho Yoon",
+        "Hyunjong Lim",
+        "Takashi Taniguchi",
+        "Kenji Watanabe",
+        "Jonghwan Kim",
+        "Changgu Lee",
+        "Sunmin Ryu"
+      ],
+      "doi": "10.1021/jacs.6c12269",
+      "url": "https://doi.org/10.1021/jacs.6c12269",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Interfacial\nCoupling of Perfluorooctanoic Acid Defluorination\nwith Chromium(VI) Reduction in Aqueous Microdroplets",
+      "authors": [
+        "Xiaoke Ma",
+        "Yuliang Li",
+        "Ronghao Wu",
+        "Min Wang",
+        "Jinsong Liu",
+        "Longgang Chu",
+        "Xiaolei Wang",
+        "Dongmei Zhou"
+      ],
+      "doi": "10.1021/jacs.6c13880",
+      "url": "https://doi.org/10.1021/jacs.6c13880",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Following\nthe Complete Thermal Landscape of a Protein\nby Neutron Scattering",
+      "authors": [
+        "J. Peters",
+        "F. Turbant",
+        "A. Pastore"
+      ],
+      "doi": "10.1021/jacs.6c15050",
+      "url": "https://doi.org/10.1021/jacs.6c15050",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Facet Modulation of\nInterfacial Water Structure Tunes\nElectrocatalytic Hydrogen Reaction Kinetics",
+      "authors": [
+        "Valentin Briega-Martos",
+        "Wenqi Li",
+        "Logan E. Smith",
+        "Natalia García Rey",
+        "Haichuan Zhang",
+        "Rafael Guzman-Soriano",
+        "Ruben Rizo",
+        "Enrique Herrero",
+        "Victor Climent",
+        "Sharon Hammes-Schiffer",
+        "Yao Yang"
+      ],
+      "doi": "10.1021/jacs.6c11313",
+      "url": "https://doi.org/10.1021/jacs.6c11313",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Electrochemical Oxidative\nCarbonylation: Strong CO\nBinding Suppresses C–C Coupling and Steers Selectivity to Organic\nCarbonates",
+      "authors": [
+        "Weiyan Ni",
+        "Aditya Menon",
+        "Yiqing Chen",
+        "Rong Xia",
+        "Bosi Peng",
+        "Zeyan Liu",
+        "Li-Yu Wang",
+        "Xiaoliang Wang",
+        "Rui Kai Miao",
+        "Xiao-Yan Li",
+        "Huajie Ze",
+        "David Sinton",
+        "Omar Farha",
+        "Chia-Min Yang",
+        "Linsey C. Seitz",
+        "Ke Xie",
+        "Edward H. Sargent"
+      ],
+      "doi": "10.1021/jacs.6c04323",
+      "url": "https://doi.org/10.1021/jacs.6c04323",
+      "posted_date": "2026-09-02",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "When Copper Falls:\nOverriding the Irving–Williams\nStability Trend Through Outer-Sphere Hydrogen Bonding",
+      "authors": [
+        "Haneul Im",
+        "Neetu Singh",
+        "Seongyeon Kwon",
+        "Changhyeon Seo",
+        "Nak-Kwan Chung",
+        "Yunjung Baek"
+      ],
+      "doi": "10.1021/jacs.6c10430",
+      "url": "https://doi.org/10.1021/jacs.6c10430",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Sequence-defined Digital\nBottlebrush Polymers for\nProgrammable Oligonucleotide Delivery",
+      "authors": [
+        "Jiachen Lin",
+        "Tingyu Sun",
+        "Yun Wei",
+        "Chenyang Xue",
+        "Jiaming Xu",
+        "Guobin Xu",
+        "Peiru Chen",
+        "Yuyan Wang",
+        "Shaobo Yang",
+        "Chloe Cavazos",
+        "Caroline Shen",
+        "Allison Wang",
+        "Alex Wang",
+        "Ke Zhang"
+      ],
+      "doi": "10.1021/jacs.6c09537",
+      "url": "https://doi.org/10.1021/jacs.6c09537",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Cobalt-Catalyzed,\nAminoquinoline-Directed Functionalization\nof Nonactivated C(sp3)-H Bonds under Mild Conditions",
+      "authors": [
+        "Lukass Lukasevics",
+        "Girish Gowda Ramachandru",
+        "Xiqu Wang",
+        "Olafs Daugulis"
+      ],
+      "doi": "10.1021/jacs.6c13556",
+      "url": "https://doi.org/10.1021/jacs.6c13556",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Maximizing\nthe Magnetic Anisotropy of Dy Complexes\nby Fine-Tuning Organic Ligands: A Systematic Multireference High-Throughput\nExploration of over 25k Molecules",
+      "authors": [
+        "Lion Frangoulis",
+        "Lorenzo A. Mariano",
+        "Vu Ha Anh Nguyen",
+        "Zahra Khatibi",
+        "Alessandro Lunghi"
+      ],
+      "doi": "10.1021/jacs.6c12194",
+      "url": "https://doi.org/10.1021/jacs.6c12194",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Deciphering Electrocatalytic\nSulfur Reduction Reactions\nin Al–S Batteries via Single-Particle Electrodes",
+      "authors": [
+        "Zheng Huang",
+        "Xiang Zhang",
+        "Wei-Li Song",
+        "Mingyong Wang",
+        "Zhijing Yu",
+        "Shuqiang Jiao"
+      ],
+      "doi": "10.1021/jacs.6c08648",
+      "url": "https://doi.org/10.1021/jacs.6c08648",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Beyond Funnel-Style\nHigh-Throughput Screening: An\nExpert-Guided Multi-Scale Nexus for Polynary Perovskite Electrocatalyst\nExploration",
+      "authors": [
+        "Siyu Ma",
+        "Hongyuan He",
+        "Yuxiang Cai",
+        "Shufei Wang",
+        "Xinze Chen",
+        "Qingyang Han",
+        "Xiaoxin Zhang",
+        "Pengfei Zhang",
+        "Shuguang Wang",
+        "Weijun Wu",
+        "Xiaoliang Fang",
+        "Shuo Zhai",
+        "Subiao Liu",
+        "Ning Yan",
+        "Meidan Ye",
+        "Abdullah N. Alodhayb",
+        "Xue Yong",
+        "Yanling Yang",
+        "Zhou Chen",
+        "Xin Tu",
+        "Yifei Sun"
+      ],
+      "doi": "10.1021/jacs.6c11110",
+      "url": "https://doi.org/10.1021/jacs.6c11110",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Oxoisoaporphine Half-Sandwich\nOsmium(II) Derivative:\nA Catalytic Trigger for Innate Tumor Chemoimmunotherapy",
+      "authors": [
+        "Liang-Mei Yang",
+        "Matthew S. Levine",
+        "Feng-Yang Wang",
+        "Jiu-Qin Tang",
+        "Song He",
+        "Tian-Tian Feng",
+        "Yuan Lu",
+        "Yu-Mei Wang",
+        "Wei Zhang",
+        "Jonathan L. Sessler",
+        "Ke-Bin Huang",
+        "Hong Liang"
+      ],
+      "doi": "10.1021/jacs.6c15572",
+      "url": "https://doi.org/10.1021/jacs.6c15572",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Modular\nPlatform for Directing-Group-Free Radical\nDicarbofunctionalization of Unactivated Alkenes via Dual Nickel/Energy-Transfer\nCatalysis",
+      "authors": [
+        "Jiachen He",
+        "Oliver P. Lambert",
+        "Yihuan Lai",
+        "Phillip J. Milner"
+      ],
+      "doi": "10.1021/jacs.6c10952",
+      "url": "https://doi.org/10.1021/jacs.6c10952",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Dual-Site\nEngineering Unlocks Spin Modulation and\nLocal Field-Controlled Charge Switching in Triangulenes",
+      "authors": [
+        "Liwei Wang",
+        "Wenlong E",
+        "James Lawrence",
+        "Xinnan Peng",
+        "Yu Teng",
+        "Xiaoyu Sheng",
+        "Tianhao Yang",
+        "Hsin-Zon Tsai",
+        "Ting Chen",
+        "Dong Wang",
+        "Jishan Wu",
+        "Pavel Jelínek",
+        "Wenping Hu",
+        "Jiong Lu"
+      ],
+      "doi": "10.1021/jacs.6c08110",
+      "url": "https://doi.org/10.1021/jacs.6c08110",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "A Host–Guest\nStrategy to Achieve Selective\nand Robust CO2-to-CO Electrocatalysis in Aqueous\nMedia",
+      "authors": [
+        "Irene Suarez-Antuna",
+        "Guilherme L. Tripodi",
+        "György Szalóki",
+        "Carole Duboc",
+        "Noémie Lalaoui"
+      ],
+      "doi": "10.1021/jacs.6c10366",
+      "url": "https://doi.org/10.1021/jacs.6c10366",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Atomically Precise\nPt19: The Largest All-Organic\nLigand–Protected Platinum Nanocluster with Enhanced Stability\nand Electrocatalytic Activity",
+      "authors": [
+        "Zongbing He",
+        "Dong Chen",
+        "Runguo Wang",
+        "Ruiqi Chen",
+        "Hao Liu",
+        "Zhiyuan Lin",
+        "Yue Zhou",
+        "Qing You",
+        "Liang Fang",
+        "Guowei Guan",
+        "Chengming Wang",
+        "Shouguo Wang",
+        "Shengli Zhuang",
+        "Qingqing Yang",
+        "Lingwen Liao",
+        "Jun Yang",
+        "Zhikun Wu"
+      ],
+      "doi": "10.1021/jacs.6c13812",
+      "url": "https://doi.org/10.1021/jacs.6c13812",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "From Dehydrogenation\nto Derivatization: Functionalization\nof Alkanes and Alkyl Groups by Molecular Catalysis",
+      "authors": [
+        "Xinxin Tang",
+        "Lan Gan",
+        "Juntao Liu",
+        "Guixia Liu",
+        "Zheng Huang"
+      ],
+      "doi": "10.1021/jacs.6c11696",
+      "url": "https://doi.org/10.1021/jacs.6c11696",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Homogeneous Iron Porphyrin\nas a Molecular CO Shuttle\nEnables Electrochemical Multicarbon Product Formation from CO2",
+      "authors": [
+        "Keon Ha Hwang",
+        "Stephen P. DiLuzio",
+        "Kaitlin M. Luedecke",
+        "Ryan G. Hadt"
+      ],
+      "doi": "10.1021/jacs.6c10179",
+      "url": "https://doi.org/10.1021/jacs.6c10179",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Temperature-Dependent\nVoltammetry Reveals the Potential-Dependent\nFormation of Reaction Species and Their Impact on Interfacial Excess\nCharge during the Ammonia Oxidation Reaction on Pt",
+      "authors": [
+        "Francisco Sarabia",
+        "Sojung Park",
+        "Beatriz Roldan Cuenya",
+        "Sebastian Z. Oener"
+      ],
+      "doi": "10.1021/jacs.6c04573",
+      "url": "https://doi.org/10.1021/jacs.6c04573",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Programmable Recognition\nof Organyl 5′-Phosphates\nby Human Argonaute-2",
+      "authors": [
+        "Theodore Carrigan-Broda",
+        "Luca F. R. Gebert",
+        "Samuel Hildebrand",
+        "Nozomi Yamada",
+        "Eric Luu",
+        "Jillian Caiazzi",
+        "Nicholas McHugh",
+        "Dimas Echeverria",
+        "Atish Wagh",
+        "Jonathan K. Watts",
+        "Anastasia Khvorova",
+        "Ian J. MacRae",
+        "Ken Yamada"
+      ],
+      "doi": "10.1021/jacs.6c03647",
+      "url": "https://doi.org/10.1021/jacs.6c03647",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Neutrophil-Inspired\nProgrammable Bacteria for Pyroptosis-Driven\nTumor Eradication",
+      "authors": [
+        "Junshuai Zhang",
+        "Sihan Chen",
+        "Xixia Wang",
+        "Juan Shi",
+        "Chao Dong",
+        "Juan Guo",
+        "Huike Xie",
+        "Huiling Lei",
+        "Yanhong Zhu",
+        "Yuzhou Wu"
+      ],
+      "doi": "10.1021/jacs.6c16051",
+      "url": "https://doi.org/10.1021/jacs.6c16051",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Polymer Surfactants\nat the Mesoscale: Packaging Liquid\nDroplets with Ultrathin Sheets and Filaments",
+      "authors": [
+        "Carla G. Steppan",
+        "Hayden Marquard",
+        "Laurel Kroo",
+        "Thomas P. Russell",
+        "Todd Emrick"
+      ],
+      "doi": "10.1021/jacs.6c11589",
+      "url": "https://doi.org/10.1021/jacs.6c11589",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "JACS",
+      "title": "Distinct Active-Site\nDynamics of Primitive Catalytic\nAmyloids Revealed by Two-Dimensional Infrared Spectroscopy",
+      "authors": [
+        "Zhiyuan Zhao",
+        "Qin Zhang",
+        "Bingyao Wang",
+        "Zhongneng Zhou",
+        "Bei Ding"
+      ],
+      "doi": "10.1021/jacs.6c11881",
+      "url": "https://doi.org/10.1021/jacs.6c11881",
+      "posted_date": "2026-09-03",
+      "status": "ASAP"
+    },
+    {
+      "journal": "ACSN",
       "title": "Cryogenic\nImaging Enabled by the Graphene-Silicon\nHeterojunction Array",
       "authors": [
         "Ming Lu",
@@ -136290,42 +139233,6 @@
     },
     {
       "journal": "ACSN",
-      "title": "Solving the Long-Standing\nCu(111) “8”\nSurface Oxide Puzzle",
-      "authors": [
-        "Romain Bernard",
-        "Jacek Goniakowski",
-        "Claudine Noguera",
-        "Alessandro Coati",
-        "Yves Garreau",
-        "Guilhem Simon",
-        "Axel Wilson",
-        "Lei Zhang",
-        "Ahmed Naitabdi",
-        "Geoffroy Prévot"
-      ],
-      "doi": "10.1021/acsnano.6c11362",
-      "url": "https://doi.org/10.1021/acsnano.6c11362",
-      "posted_date": "2026-08-27",
-      "status": "ASAP"
-    },
-    {
-      "journal": "ACSN",
-      "title": "Saddle-Shaped Mesoporous\nTitania with Negative Curvature\nby Precursor-Induced Deformation Assembly for Efficient Photocatalytic\nHydrogen Evolution",
-      "authors": [
-        "Yong Tian",
-        "Jie Zhang",
-        "Jiacheng Shen",
-        "Junlai Yu",
-        "Yun Tang",
-        "Dongyuan Zhao"
-      ],
-      "doi": "10.1021/acsnano.6c08675",
-      "url": "https://doi.org/10.1021/acsnano.6c08675",
-      "posted_date": "2026-08-27",
-      "status": "ASAP"
-    },
-    {
-      "journal": "ACSN",
       "title": "High-Pressure\nChemistry toward the Modulation of the\nStructure and Properties of Nanocrystals",
       "authors": [
         "Jiayi Yang",
@@ -136336,44 +139243,6 @@
       "url": "https://doi.org/10.1021/acsnano.6c11819",
       "posted_date": "2026-08-27",
       "status": "ASAP"
-    },
-    {
-      "journal": "Angew",
-      "title": "Metal Oxides Catalyze Formation of Dehydroamino Acids by Phosphate β‐Elimination Under Physiological Conditions",
-      "authors": [
-        "Samuel W. Markovich",
-        "Brian L. Frey",
-        "Mark Scalf",
-        "Lloyd M. Smith"
-      ],
-      "doi": "10.1002/anie.9805066",
-      "url": "https://doi.org/10.1002/anie.9805066",
-      "posted_date": "2026-09-01",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Adaptive Induced‐Fit via Engineered Linker Regioisomerization in Biomimetic Zeolitic Imidazolate Frameworks for Boosting SF\n                    <sub>6</sub>\n                    /N\n                    <sub>2</sub>\n                    Separation",
-      "authors": [
-        "Qiang Zhang",
-        "Rajamani Krishna",
-        "Xu Hu",
-        "Zilong Chen",
-        "Qiang Chen",
-        "Ying‐Fei Huo",
-        "Yi‐Long Li",
-        "Yue‐Chao Yuan",
-        "Kuo Zhang",
-        "Lan Lan",
-        "Zhi‐Jian Fu",
-        "Lu‐Lu Wang",
-        "Zhen Zhou",
-        "Tong‐Liang Hu"
-      ],
-      "doi": "10.1002/anie.3448513",
-      "url": "https://doi.org/10.1002/anie.3448513",
-      "posted_date": "2026-09-01",
-      "status": "EarlyView"
     },
     {
       "journal": "Angew",
@@ -136403,126 +139272,6 @@
     },
     {
       "journal": "Angew",
-      "title": "Supramolecular Engineering of Dynamically Interlocked Dual‐Stiffness Interphase for Biomimetic Strong and Tough Double Network Aerogel",
-      "authors": [
-        "Zi‐Meng Han",
-        "Hua Tu",
-        "Xiang Zhao",
-        "Wen‐Bin Sun",
-        "Fang‐Chuan Li",
-        "Qing‐Fang Guan",
-        "Shu‐Hong Yu"
-      ],
-      "doi": "10.1002/anie.7495552",
-      "url": "https://doi.org/10.1002/anie.7495552",
-      "posted_date": "2026-09-01",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Elucidating Photo‐Kinetic Control in Photothermal Reverse Water‐Gas Shift Reaction",
-      "authors": [
-        "Junchuan Sun",
-        "Rui Song",
-        "Chang Xu",
-        "Xue Ding",
-        "Wanguo Gao",
-        "Athanasios A. Tountas",
-        "Zhe Lu",
-        "Jiakun Wang",
-        "Zeshu Zhang",
-        "Xiaolu Zhuo",
-        "Yingfang Yao",
-        "Zhigang Zou",
-        "Geoffrey A. Ozin",
-        "Lu Wang"
-      ],
-      "doi": "10.1002/anie.4338333",
-      "url": "https://doi.org/10.1002/anie.4338333",
-      "posted_date": "2026-09-01",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Sono‐Triggered In Situ Vaccine via a Chlorin‐Based Small Molecule Sensitizer for Systemic Cancer Therapy",
-      "authors": [
-        "Jinrong Li",
-        "Kun Shao",
-        "Lin Cheng",
-        "Guanyi Zhang",
-        "Jianlong Su",
-        "Yiming Liu",
-        "Yang Wang",
-        "Chengdong Wang",
-        "Zhihao Wu",
-        "Xu Wang",
-        "Yuxuan Zhang",
-        "Bohua Yan",
-        "Lei Wang",
-        "Guangzhe Li"
-      ],
-      "doi": "10.1002/anie.8129050",
-      "url": "https://doi.org/10.1002/anie.8129050",
-      "posted_date": "2026-09-01",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Electrically Switchable Circularly Polarized Light Detection in Optically Active Ferroelectric",
-      "authors": [
-        "Xin Dong",
-        "Zhijin Xu",
-        "Yaru Geng",
-        "Haotian Wen",
-        "Junhua Luo",
-        "Lina Li"
-      ],
-      "doi": "10.1002/anie.5199246",
-      "url": "https://doi.org/10.1002/anie.5199246",
-      "posted_date": "2026-09-01",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Radical Sulfinamidation of Alkenes Enabled by a PCET–HAT Relay",
-      "authors": [
-        "Fen‐Ya Xiong",
-        "Jichao Huang",
-        "Xin‐Yi Zhang",
-        "Yu‐Jie Li",
-        "Zhihan Zhang",
-        "Wen‐Jing Xiao",
-        "Liang‐Qiu Lu"
-      ],
-      "doi": "10.1002/anie.2451961",
-      "url": "https://doi.org/10.1002/anie.2451961",
-      "posted_date": "2026-09-01",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Spacer Length as a Molecular Cue for Self‐Sorting, Living Growth, and Piezoresponse in Peptide Assemblies",
-      "authors": [
-        "Jahanvi Ralhan",
-        "Deepika Gupta",
-        "Simanta Kalita",
-        "Varun Gupta",
-        "Titas K. Mukhopadhyay",
-        "Pallavi S. Chaubey",
-        "Manisha Nirwan",
-        "Khalid Naim",
-        "Rint P. Sijbesma",
-        "Dipankar Mandal",
-        "Sarit S. Agasti",
-        "Asish Pal"
-      ],
-      "doi": "10.1002/anie.4984465",
-      "url": "https://doi.org/10.1002/anie.4984465",
-      "posted_date": "2026-09-01",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
       "title": "Transformative Masked Ortho‐Quinone Chemistry: From Direct Guaiacol Activation to Lignin‐Based Adhesives",
       "authors": [
         "Dominik P. Hoch",
@@ -136536,28 +139285,6 @@
       ],
       "doi": "10.1002/anie.5604332",
       "url": "https://doi.org/10.1002/anie.5604332",
-      "posted_date": "2026-09-01",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Site‐Specific Molecular Engineering Redirects Radical Pathways for Selective Photocatalytic Coupling of Methane to C\n                    <sub>2+</sub>\n                    Hydrocarbons",
-      "authors": [
-        "Yaru Shao",
-        "Wanying Guo",
-        "Wei Li",
-        "Gaoyu Cui",
-        "Huijie Cheng",
-        "Lingfeng Zhu",
-        "Liqun Ye",
-        "Zihan Qiu",
-        "Yu Shan",
-        "Rui Li",
-        "Tianyi Ma",
-        "Jungang Hou"
-      ],
-      "doi": "10.1002/anie.6847901",
-      "url": "https://doi.org/10.1002/anie.6847901",
       "posted_date": "2026-09-01",
       "status": "EarlyView"
     },
@@ -138335,40 +141062,6 @@
     },
     {
       "journal": "JACS",
-      "title": "Moderately Solvated\nElectrolyte Enabling Fast Charging\nof a Lithium-Ion Battery at Low Temperature",
-      "authors": [
-        "Ziwen Zha",
-        "Aoxuan Wang",
-        "Zhengfei Zhao",
-        "Zhenglin Hu",
-        "Fuqiang Huang",
-        "Jiayan Luo"
-      ],
-      "doi": "10.1021/jacs.6c12417",
-      "url": "https://doi.org/10.1021/jacs.6c12417",
-      "posted_date": "2026-08-24",
-      "status": "ASAP"
-    },
-    {
-      "journal": "JACS",
-      "title": "Recrystallization-Driven\nAssembly of Cs3Cd2Cl7 Nanoplatelets\ninto Hybrid Organic–Inorganic\nRuddlesden–Popper Stacks",
-      "authors": [
-        "Diptam Nasipuri",
-        "Stefano Toso",
-        "Souvik Banerjee",
-        "Sumit Kumar Dutta",
-        "Yurii P. Ivanov",
-        "Dmitry Baranov",
-        "Liberato Manna",
-        "Narayan Pradhan"
-      ],
-      "doi": "10.1021/jacs.6c11511",
-      "url": "https://doi.org/10.1021/jacs.6c11511",
-      "posted_date": "2026-08-24",
-      "status": "ASAP"
-    },
-    {
-      "journal": "JACS",
       "title": "NMR-Solved Proton Fine\nLocations Reveal the Dynamic\nFlexibility of Brønsted Acid Sites in the SAPO-34 Molecular Sieve",
       "authors": [
         "Caiyi Lou",
@@ -138389,40 +141082,6 @@
     },
     {
       "journal": "JACS",
-      "title": "Excited Triplet State\nof Heptacene Studied by Electron\nSpin Resonance",
-      "authors": [
-        "Mikaru Masuda",
-        "Joel Hao Jorolan",
-        "Hironobu Hayashi",
-        "Hiroko Yamada",
-        "Tomoaki Miura",
-        "Tadaaki Ikoma"
-      ],
-      "doi": "10.1021/jacs.6c06021",
-      "url": "https://doi.org/10.1021/jacs.6c06021",
-      "posted_date": "2026-08-24",
-      "status": "ASAP"
-    },
-    {
-      "journal": "JACS",
-      "title": "Enhanced Sampling and\nLigandability Assessment to\nExpand the Repertoire of Potentially Druggable Cryptic Pockets",
-      "authors": [
-        "Neha Vithani",
-        "She Zhang",
-        "Judith Günther",
-        "Hans Purkey",
-        "J. David Lawson",
-        "Anthony Nicholls",
-        "A. Geoffrey Skillman",
-        "David N. LeBard"
-      ],
-      "doi": "10.1021/jacs.6c05778",
-      "url": "https://doi.org/10.1021/jacs.6c05778",
-      "posted_date": "2026-08-24",
-      "status": "ASAP"
-    },
-    {
-      "journal": "JACS",
       "title": "Alkyl-to-Alkyl\nPalladium Migration Enables Remote\nC–C Bond Formation",
       "authors": [
         "Yangjin Kuang",
@@ -138431,115 +141090,6 @@
       ],
       "doi": "10.1021/jacs.6c12509",
       "url": "https://doi.org/10.1021/jacs.6c12509",
-      "posted_date": "2026-08-24",
-      "status": "ASAP"
-    },
-    {
-      "journal": "JACS",
-      "title": "3D, Structure-Based,\nDeep Learning Approach to Predict\nthe Regioselectivity of Olefin Hydroformylations",
-      "authors": [
-        "Nicholas Hadler",
-        "N. Ian Rinehart",
-        "Masha Elkin",
-        "Jeremy Nicolai",
-        "Golsa Gheibi",
-        "Jiaqing Chen",
-        "Matthew Avaylon",
-        "Ross Maciejewski",
-        "Gunther H. Weber",
-        "Michael W. Mahoney",
-        "Talita Perciano",
-        "John F. Hartwig"
-      ],
-      "doi": "10.1021/jacs.6c11602",
-      "url": "https://doi.org/10.1021/jacs.6c11602",
-      "posted_date": "2026-08-24",
-      "status": "ASAP"
-    },
-    {
-      "journal": "JACS",
-      "title": "Spatial Electronic\nPartitioning in Metal–Organic\nFrameworks for pH-Universal CO2 Electroreduction",
-      "authors": [
-        "Jie Meng",
-        "Ying Wang",
-        "Jia-Wen Wang",
-        "Ze-Lin Ma",
-        "Tian-Shu He",
-        "Jiao-Na Yue",
-        "Bo-Lin Sun",
-        "Quan-Guo Zhai"
-      ],
-      "doi": "10.1021/jacs.6c06810",
-      "url": "https://doi.org/10.1021/jacs.6c06810",
-      "posted_date": "2026-08-24",
-      "status": "ASAP"
-    },
-    {
-      "journal": "JACS",
-      "title": "A Theoretical 4f Field\nEffect of Rare-Earth Complexes\non Dinitrogen Reduction",
-      "authors": [
-        "Qi Wang",
-        "Yuxi Wang",
-        "Xinyuan Wang",
-        "Qian Peng"
-      ],
-      "doi": "10.1021/jacs.6c12765",
-      "url": "https://doi.org/10.1021/jacs.6c12765",
-      "posted_date": "2026-08-24",
-      "status": "ASAP"
-    },
-    {
-      "journal": "JACS",
-      "title": "Symmetry-Encoded [6\n+ 12] Octahedral Organic Cages\nEnabled by Retrospective Design",
-      "authors": [
-        "Shayan Karak",
-        "Soubhik Khata",
-        "Ekta Nehra",
-        "Yusuke Nishiyama",
-        "Naomi Watanabe",
-        "Christian Göb",
-        "Rahul Banerjee"
-      ],
-      "doi": "10.1021/jacs.6c10786",
-      "url": "https://doi.org/10.1021/jacs.6c10786",
-      "posted_date": "2026-08-24",
-      "status": "ASAP"
-    },
-    {
-      "journal": "JACS",
-      "title": "Reductive Couplings\nVia Nucleophilic Photoactivation\nof Carbonyls",
-      "authors": [
-        "Sai Rohini Narayanan Kolusu",
-        "Manuel Rodríguez-Martínez",
-        "Carla Aira-Rodríguez",
-        "Matteo Caldari",
-        "Gabriel Brenlla-Carballo",
-        "Ismael Amado-Amado",
-        "Emanuele Azzi",
-        "Yinan Song",
-        "Joseph Ward",
-        "Nidhal Selmi",
-        "Jesus A. Varela",
-        "Manuel Nappi"
-      ],
-      "doi": "10.1021/jacs.6c12120",
-      "url": "https://doi.org/10.1021/jacs.6c12120",
-      "posted_date": "2026-08-24",
-      "status": "ASAP"
-    },
-    {
-      "journal": "JACS",
-      "title": "Structural Homology\nAllows Alloyed II–V Magic-Sized\nClusters with Continuously Tunable Emission",
-      "authors": [
-        "Soren F. Sandeno",
-        "Dylan M. Ladd",
-        "Vijay Lin",
-        "Emma J. Coester",
-        "Michael F. Toney",
-        "Brandi M. Cossairt"
-      ],
-      "doi": "10.1021/jacs.6c12508",
-      "url": "https://doi.org/10.1021/jacs.6c12508",
       "posted_date": "2026-08-24",
       "status": "ASAP"
     },
@@ -138555,24 +141105,6 @@
       ],
       "doi": "10.1021/jacs.6c14314",
       "url": "https://doi.org/10.1021/jacs.6c14314",
-      "posted_date": "2026-08-24",
-      "status": "ASAP"
-    },
-    {
-      "journal": "JACS",
-      "title": "Concise Asymmetric\nTotal Synthesis of (−)-Cribrostatin\n4 via Development of a Rh-Catalyzed Asymmetric Hydrogenation of 2,5-Diketopiperazine-Derived\nEnamides",
-      "authors": [
-        "Xing-Yu Wang",
-        "Ka Lu",
-        "Wen Jiang",
-        "Lei Zheng",
-        "Xiao-Ming Zhang",
-        "Fu-Min Zhang",
-        "Hong Wang",
-        "Yong-Qiang Tu"
-      ],
-      "doi": "10.1021/jacs.6c12963",
-      "url": "https://doi.org/10.1021/jacs.6c12963",
       "posted_date": "2026-08-24",
       "status": "ASAP"
     },
@@ -139314,27 +141846,6 @@
     },
     {
       "journal": "Angew",
-      "title": "A Triple‐Site Engineered Heterojunction Photocatalyst for Full‐Spectrum NH ₃ Synthesis via Synergistic Promotion of Water Oxidation and Nitrate Reduction",
-      "authors": [
-        "Yamin Xi",
-        "Shunqiong Long",
-        "Jing Wang",
-        "Chaoqi Zhang",
-        "Tianxiang Wang",
-        "Tong Bao",
-        "Suzhao Liu",
-        "Yingying Zou",
-        "Yuye Zhao",
-        "Chengzhong Yu",
-        "Chao Liu"
-      ],
-      "doi": "10.1002/anie.9657393",
-      "url": "https://doi.org/10.1002/anie.9657393",
-      "posted_date": "2026-08-28",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
       "title": "Synthesis of Isoquinolines Through Isochromenylium Intermediates Captured by Nitriles and a CO‐to‐CN Switch",
       "authors": [
         "Xu‐Dong Hu",
@@ -139846,92 +142357,6 @@
       ],
       "doi": "10.1002/anie.5330124",
       "url": "https://doi.org/10.1002/anie.5330124",
-      "posted_date": "2026-08-26",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Solvent‐Directed Modulation of Stacking Isomers in Single‐Crystal One‐Dimensional Covalent Organic Frameworks",
-      "authors": [
-        "Tonghai Wang",
-        "Baoqiu Yu",
-        "Liqin Hao",
-        "Wenbo Zhou",
-        "Yujie Liu",
-        "Peng Cheng",
-        "Yao Chen",
-        "Zhenjie Zhang"
-      ],
-      "doi": "10.1002/anie.7177046",
-      "url": "https://doi.org/10.1002/anie.7177046",
-      "posted_date": "2026-08-26",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "High‐Entropy Glass Scintillators With Anti‐Crystallization Stability for High‐Resolution X‐Ray Imaging",
-      "authors": [
-        "Senyu Wang",
-        "Rong Wu",
-        "Haoran Li",
-        "Ziqi Yu",
-        "Shuaiwei Li",
-        "Zhengong Meng",
-        "Zhongfu An"
-      ],
-      "doi": "10.1002/anie.7923254",
-      "url": "https://doi.org/10.1002/anie.7923254",
-      "posted_date": "2026-08-26",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Indium Clusters With 6 s ² Lone‐Pair Effect as Excitonic Electron Reservoirs for Direct 2e − Photocatalytic H ₂ O ₂ Photosynthesis",
-      "authors": [
-        "Shijie Xie",
-        "Teng Shao",
-        "Yuye Jiao",
-        "Yurou Song",
-        "Huijie Cheng",
-        "Yaru Shao",
-        "Tianyi Ma",
-        "Jungang Hou"
-      ],
-      "doi": "10.1002/anie.3765495",
-      "url": "https://doi.org/10.1002/anie.3765495",
-      "posted_date": "2026-08-26",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Synchronous Interfacial Chemistry via a Fluorine‐Free Bifunctional Additive for Ultrastable Aqueous Zinc‐Iodine Batteries",
-      "authors": [
-        "Jiatong Li",
-        "Jian Qin",
-        "Minhao Dai",
-        "Yi Chen",
-        "Wei Xiao",
-        "Wenbin Li",
-        "Jingjing Wang",
-        "Xifei Li"
-      ],
-      "doi": "10.1002/anie.7649417",
-      "url": "https://doi.org/10.1002/anie.7649417",
-      "posted_date": "2026-08-26",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Four‐Dimensional Electrochemiluminescence Microscopy Enables Depth‐Resolved Imaging of Single, Living Spheroids",
-      "authors": [
-        "Elisa D'Arrigo",
-        "Vanshika Gupta",
-        "Bertrand Goudeau",
-        "Jeffrey E. Dick",
-        "Neso Sojic"
-      ],
-      "doi": "10.1002/anie.5240036",
-      "url": "https://doi.org/10.1002/anie.5240036",
       "posted_date": "2026-08-26",
       "status": "EarlyView"
     },
@@ -140577,90 +143002,6 @@
     },
     {
       "journal": "Angew",
-      "title": "High Saturation Polarization Ferroelectricity in a Pair of α‐Phase Enantiomorphic Crystals Based on Calabash‐Shaped Molecules",
-      "authors": [
-        "Mengxiang Luo",
-        "Xiao Sun",
-        "Yanlin Lai",
-        "Si Yang",
-        "Lin Zhou",
-        "Xiuli You",
-        "Wenjing Guo",
-        "Zhenhong Wei",
-        "Hu Cai"
-      ],
-      "doi": "10.1002/anie.2885108",
-      "url": "https://doi.org/10.1002/anie.2885108",
-      "posted_date": "2026-08-25",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Selenophene π‐Core Fusion for Simultaneous Fast Reverse Intersystem Crossing and Narrowband Long‐Wavelength TADF",
-      "authors": [
-        "Jingpeng Zhang",
-        "Jun Hyeon Lee",
-        "Guanting Liu",
-        "Tatsuya Mori",
-        "Takuma Yasuda"
-      ],
-      "doi": "10.1002/anie.2882594",
-      "url": "https://doi.org/10.1002/anie.2882594",
-      "posted_date": "2026-08-25",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Strain‐Retardant Sodium Layered Cathodes Enabled by Conformal Octahedral Matching",
-      "authors": [
-        "Haoji Wang",
-        "Yu Mei",
-        "Xinyu Hu",
-        "Lei Sun",
-        "Jinqiang Gao",
-        "Jiangnan Huang",
-        "Zhi Zheng",
-        "Dongyang Cai",
-        "Hanyu Tu",
-        "Shuncheng Zhang",
-        "Chuanyong Niu",
-        "Wentao Deng",
-        "Guoqiang Zou",
-        "Hongshuai Hou",
-        "Chaoping Liang",
-        "Kwun Nam Hui",
-        "Xiaobo Ji"
-      ],
-      "doi": "10.1002/anie.4678799",
-      "url": "https://doi.org/10.1002/anie.4678799",
-      "posted_date": "2026-08-25",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Thienyl Self‐Assembled Molecule Enabled Stable Perovskite/TOPCon Silicon Tandem",
-      "authors": [
-        "Daoyong Zhang",
-        "Zhifen Huang",
-        "Zuozuo Wu",
-        "Ruilin Li",
-        "Wenbo Lv",
-        "Xingqi Fu",
-        "Jungan Wang",
-        "Jie Yang",
-        "Xinyu Zhang",
-        "Menglei Xu",
-        "Pengjie Hang",
-        "Deren Yang",
-        "Xuegong Yu"
-      ],
-      "doi": "10.1002/anie.5241611",
-      "url": "https://doi.org/10.1002/anie.5241611",
-      "posted_date": "2026-08-25",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
       "title": "Eliminating Interfacial Stress Concentration Enables High‐Energy and High‐Safety Gel Polymer Lithium Metal Pouch Cells",
       "authors": [
         "Wenran Wang",
@@ -140750,30 +143091,6 @@
     },
     {
       "journal": "Angew",
-      "title": "Singlet Oxygen From Lattice Oxygen‐Adsorbate Hybridization Drives Highly Selective Electrooxidation of Methallyl Alcohol to Methacrolein",
-      "authors": [
-        "Ximin Zhang",
-        "Xiaojun Li",
-        "Meiqing Cai",
-        "Junhua Li",
-        "Wenbiao Wang",
-        "Kaibin Chu",
-        "Jingjing Qin",
-        "Xueying Cao",
-        "Youbing Huang",
-        "Xingchen Jiao",
-        "Xiaohui Xu",
-        "Hui Qian",
-        "Xinjie Tian",
-        "Jun‐Ling Song"
-      ],
-      "doi": "10.1002/anie.7784614",
-      "url": "https://doi.org/10.1002/anie.7784614",
-      "posted_date": "2026-08-25",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
       "title": "Intermediate‐Mediated Selectivity in Electrocatalytic Nitrate Reduction for Nitrogen Product Synthesis",
       "authors": [
         "Yingying Zhou",
@@ -140821,25 +143138,6 @@
       ],
       "doi": "10.1002/anie.7176757",
       "url": "https://doi.org/10.1002/anie.7176757",
-      "posted_date": "2026-08-25",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "The Strategies of Improving Chemical Stability of Imine‐Linked Covalent Organic Frameworks",
-      "authors": [
-        "Chaoying Fang",
-        "Zhaohui Li",
-        "Hong Jiang",
-        "Shuailei Xie",
-        "Tao Wang",
-        "Guoqing Zu",
-        "Jie Yang",
-        "Qichun Zhang",
-        "Jia Huang"
-      ],
-      "doi": "10.1002/anie.8846972",
-      "url": "https://doi.org/10.1002/anie.8846972",
       "posted_date": "2026-08-25",
       "status": "EarlyView"
     },
@@ -140952,22 +143250,6 @@
       ],
       "doi": "10.1002/anie.7674442",
       "url": "https://doi.org/10.1002/anie.7674442",
-      "posted_date": "2026-08-24",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Photopatterning Block Copolymer Enables Mechanical Enhancement",
-      "authors": [
-        "Yue Wang",
-        "Feng Cai",
-        "Hongchang Xiao",
-        "Juzhong Zhang",
-        "Tianfu Song",
-        "Haifeng Yu"
-      ],
-      "doi": "10.1002/anie.3898240",
-      "url": "https://doi.org/10.1002/anie.3898240",
       "posted_date": "2026-08-24",
       "status": "EarlyView"
     },
@@ -141127,117 +143409,6 @@
     },
     {
       "journal": "Angew",
-      "title": "LEGO‐Like Granular‐Electrode Capacitive Deionization with Ultrahigh Mass Loading for Ultrafast Electrochemical Ion Capture",
-      "authors": [
-        "Xiaochen Zhang",
-        "Zixiao Xu",
-        "Fei Yu",
-        "Ye Zhao",
-        "Mingkuan Zhang",
-        "Jie Ma"
-      ],
-      "doi": "10.1002/anie.9170775",
-      "url": "https://doi.org/10.1002/anie.9170775",
-      "posted_date": "2026-08-24",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Steric‐Electronic Engineering of Ester Carbonyls Enables Thermodynamic‐Kinetic Regulation of Electron Transfer for High‐Voltage and High‐Rate Lithium Metal Batteries",
-      "authors": [
-        "Zhiwei Ni",
-        "Yuan Li",
-        "Huizi Zhang",
-        "Chenghui Zhang",
-        "Baojuan Xi",
-        "Shenglin Xiong",
-        "Jinkui Feng"
-      ],
-      "doi": "10.1002/anie.5288915",
-      "url": "https://doi.org/10.1002/anie.5288915",
-      "posted_date": "2026-08-24",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Tb ³⁺ as an Energy‐Mediating Node: Boosting Ho ³⁺ Upconversion in Metal–Organic Frameworks via Cascaded Energy Transfer",
-      "authors": [
-        "Haofan Li",
-        "Jiabo Chen",
-        "Wanjun Yang",
-        "Wen Gao",
-        "Feifei Xing",
-        "Hongjie Zhang",
-        "Lining Sun"
-      ],
-      "doi": "10.1002/anie.4551166",
-      "url": "https://doi.org/10.1002/anie.4551166",
-      "posted_date": "2026-08-24",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "A Cytochrome P450 Enzyme‐Catalyzed Acetyl Migration in Cyanogramide Biosynthesis",
-      "authors": [
-        "Yiguang Zhu",
-        "Yongchao Wang",
-        "Liping Zhang",
-        "Chunyan Fang",
-        "Youhua Yong",
-        "Ruijie Chen",
-        "Jiahai Zhou",
-        "Qingbo Zhang",
-        "Binju Wang",
-        "Changsheng Zhang"
-      ],
-      "doi": "10.1002/anie.7360177",
-      "url": "https://doi.org/10.1002/anie.7360177",
-      "posted_date": "2026-08-24",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Expansion Microscopy Reveals the Spatial Association of Therapeutic Antibody–Receptor Complexes With Cholesterol‐Rich Membrane Domains",
-      "authors": [
-        "Gang Wen",
-        "Nicole Seifert",
-        "Patrick Eiring",
-        "Johanna Meyer",
-        "Hannes Neuweiler",
-        "Julia Weingart",
-        "Ignacio Vega‐Vásquez",
-        "Sören Doose",
-        "Philip Kollmannsberger",
-        "Markus Sauer"
-      ],
-      "doi": "10.1002/anie.1206161",
-      "url": "https://doi.org/10.1002/anie.1206161",
-      "posted_date": "2026-08-24",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Olefin–Ag d – π Coupling Enables Organic Solar Cells With >83% Fill Factor",
-      "authors": [
-        "Andong Zhang",
-        "Xuewen Wang",
-        "Nan Wei",
-        "Hang Lv",
-        "Huanxiang Jiang",
-        "Yao Feng",
-        "Haiqiang Chen",
-        "Yuwen Wang",
-        "Hao Lu",
-        "Xiangyang Chen",
-        "Zhishan Bo"
-      ],
-      "doi": "10.1002/anie.7293232",
-      "url": "https://doi.org/10.1002/anie.7293232",
-      "posted_date": "2026-08-24",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
       "title": "Graphdiyne‐Based Heteronuclear Dual‐Atom Catalysts Enable High‐Energy‐Density Lithium–Sulfur Batteries",
       "authors": [
         "Zhongqiang Wang",
@@ -141343,21 +143514,6 @@
       "url": "https://doi.org/10.1002/anie.1853847",
       "posted_date": "2026-08-24",
       "status": "EarlyView"
-    },
-    {
-      "journal": "JACS",
-      "title": "Local Active-Site Architecture Directs Divergent Carbocation Cascades in Sesterterpene Synthases",
-      "authors": [
-        "Philip Troycke",
-        "Heng Li",
-        "Kexin Yang",
-        "Jeroen S. Dickschat",
-        "Michael Groll"
-      ],
-      "doi": "10.1021/jacs.6c06677",
-      "url": "https://doi.org/10.1021/jacs.6c06677",
-      "posted_date": "2026-08-23",
-      "status": "ASAP"
     },
     {
       "journal": "Angew",
@@ -141851,104 +144007,6 @@
     },
     {
       "journal": "JACS",
-      "title": "Lattice-Nitrogen-Mediated Electrochemical Nitrate Reduction Boosted by Single-Atom Antimony Doping",
-      "authors": [
-        "Xinyue Shi",
-        "Xiaohua Yu",
-        "Minghui Xie",
-        "Jianwei Wu",
-        "Ping Zhang",
-        "Hainan Wei",
-        "Su Ma",
-        "Yujie Cui",
-        "Na Xu",
-        "Xuan Peng",
-        "Guohua Zhang",
-        "Yiming Zhu",
-        "Jiayi Li",
-        "Min-Hsin Yeh",
-        "Wei-Hsiang Huang",
-        "Jiwei Ma",
-        "Hongfei Cheng"
-      ],
-      "doi": "10.1021/jacs.6c12366",
-      "url": "https://doi.org/10.1021/jacs.6c12366",
-      "posted_date": "2026-08-22",
-      "status": "ASAP"
-    },
-    {
-      "journal": "JACS",
-      "title": "Pulsed Electrolysis Unlocks Non-Noble-Metal Catalysis for Per- and Polyfluoroalkyl Substance Defluorination in Water",
-      "authors": [
-        "Ying Yu",
-        "Shuchang Wang",
-        "Yanqiu Liu",
-        "Xiaoguang Duan",
-        "Xiaohong Guan"
-      ],
-      "doi": "10.1021/jacs.6c10422",
-      "url": "https://doi.org/10.1021/jacs.6c10422",
-      "posted_date": "2026-08-22",
-      "status": "ASAP"
-    },
-    {
-      "journal": "JACS",
-      "title": "Synergistic Surface and Interface Regulation of Ultralow-Pt-Loading Cathodes for Low-Alkalinity AEMWEs",
-      "authors": [
-        "Fei-Yue Gao",
-        "Jing-Wen DuanMu",
-        "Haifeng Shen",
-        "Xiaogang Sun",
-        "Yao Zheng",
-        "Shi-Zhang Qiao"
-      ],
-      "doi": "10.1021/jacs.6c12859",
-      "url": "https://doi.org/10.1021/jacs.6c12859",
-      "posted_date": "2026-08-22",
-      "status": "ASAP"
-    },
-    {
-      "journal": "JACS",
-      "title": "Real-Time Observation of Dynamic Spin Polarization in Copper Oxide by Carrier Scattering with Chiral Phonons",
-      "authors": [
-        "Ratnadip De",
-        "Allen Partin",
-        "Connor Davis",
-        "Conner Dykstra",
-        "Brian P. Bloom",
-        "Elizabeth Shiby",
-        "David H. Waldeck",
-        "Martin Schultze",
-        "L. Robert Baker"
-      ],
-      "doi": "10.1021/jacs.6c11214",
-      "url": "https://doi.org/10.1021/jacs.6c11214",
-      "posted_date": "2026-08-22",
-      "status": "ASAP"
-    },
-    {
-      "journal": "JACS",
-      "title": "In Situ Construction of a Reticulated Peptide Scaffold via Responsive Self-Assembly and Proximal Covalent Labeling for Enhanced Tumor Imaging and Therapy",
-      "authors": [
-        "Ruxin Feng",
-        "Yunfeng Qiu",
-        "Yang Zhao",
-        "Rixin Wang",
-        "Weilu Xu",
-        "Jinhui Ning",
-        "Yumin Li",
-        "Juyue Zhou",
-        "Dingqing Feng",
-        "Suying Xu",
-        "Leyu Wang"
-      ],
-      "doi": "10.1021/jacs.6c08269",
-      "url": "https://doi.org/10.1021/jacs.6c08269",
-      "posted_date": "2026-08-22",
-      "status": "ASAP"
-    },
-    {
-      "journal": "JACS",
       "title": "Colossal Negative Thermal Expansion in MOF-808",
       "authors": [
         "Jan Hofmann",
@@ -142007,88 +144065,6 @@
       ],
       "doi": "10.1002/anie.9559286",
       "url": "https://doi.org/10.1002/anie.9559286",
-      "posted_date": "2026-08-22",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Photometallobiocatalytic Asymmetric Radical‐Mediated Cross‐Coupling of Organotrifluoroborate Salts and Pyridotriazoles",
-      "authors": [
-        "Huanan Wang",
-        "Binh Khanh Mai",
-        "Xingjie Zhang",
-        "Chongtao Li",
-        "Peng Liu",
-        "Yang Yang"
-      ],
-      "doi": "10.1002/anie.7251439",
-      "url": "https://doi.org/10.1002/anie.7251439",
-      "posted_date": "2026-08-22",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Ultrathin Membrane With Ion‐Specific Gating Enables Interfacial Decoupling of Conductivity–Selectivity for Aqueous Flow Batteries",
-      "authors": [
-        "Di Mu",
-        "Yu Xiong",
-        "Feiran Wang",
-        "Jiafeng Lei",
-        "Fei Ai",
-        "Jun Fan",
-        "Yi‐Chun Lu"
-      ],
-      "doi": "10.1002/anie.2958917",
-      "url": "https://doi.org/10.1002/anie.2958917",
-      "posted_date": "2026-08-22",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Molecular Basis for Activation to Inhibition Switching in Kv7.2 Channel Modulators",
-      "authors": [
-        "Tania Ciaglia",
-        "Giusy Carleo",
-        "Zhenni Yang",
-        "Francesca Di Matteo",
-        "Federica De Rosa",
-        "Gerardina Smaldone",
-        "Zhao‐Bing Gao",
-        "Marco D'Alì",
-        "Rita Turcio",
-        "Demin Ma",
-        "Veronica Di Sarno",
-        "Nannan Su",
-        "Salvatore Vincenzo Giofrè",
-        "Giacomo Pepe",
-        "Pietro Campiglia",
-        "Alessia Bertamino",
-        "Francesco Miceli",
-        "Jiangtao Guo",
-        "Nunzio Iraci",
-        "Carmine Ostacolo",
-        "Maurizio Taglialatela"
-      ],
-      "doi": "10.1002/anie.7948330",
-      "url": "https://doi.org/10.1002/anie.7948330",
-      "posted_date": "2026-08-22",
-      "status": "EarlyView"
-    },
-    {
-      "journal": "Angew",
-      "title": "Structural Relaxation Modulated Phonon‐Assisted Energy Transfer Scintillator for Simultaneous X‐Ray Imaging and Thermal Signals Visualization",
-      "authors": [
-        "Peng‐Kun Wang",
-        "Shuai‐Liang Chen",
-        "Bao‐Yi Li",
-        "Jian‐Gang Xu",
-        "Shuai‐Hua Wang",
-        "Wen‐Jing Jiang",
-        "Fa‐Kun Zheng",
-        "Guo‐Cong Guo"
-      ],
-      "doi": "10.1002/anie.5028581",
-      "url": "https://doi.org/10.1002/anie.5028581",
       "posted_date": "2026-08-22",
       "status": "EarlyView"
     },
@@ -142578,77 +144554,6 @@
       "status": "EarlyView"
     },
     {
-      "journal": "ACSN",
-      "title": "Hydrogel Transformation Reveals a Conventionally Inaccessible Sub-Micrometer Microplastic Fraction in Intact Human Tissues",
-      "authors": [
-        "Quinten Wouters",
-        "Sergey Abakumov",
-        "Charlotte Van Der Stukken",
-        "Imran Aslam",
-        "Iris Van Den Eede",
-        "Peter Dedecker",
-        "Tim S. Nawrot",
-        "Maarten B. J. Roeffaers"
-      ],
-      "doi": "10.1021/acsnano.6c12376",
-      "url": "https://doi.org/10.1021/acsnano.6c12376",
-      "posted_date": "2026-08-22",
-      "status": "ASAP"
-    },
-    {
-      "journal": "ACSN",
-      "title": "Symmetry-Programmed Pure Spin Photocurrents in Sliding Ferroelectric Altermagnets",
-      "authors": [
-        "Yao Yang",
-        "Fuming Xu",
-        "Hao Jin"
-      ],
-      "doi": "10.1021/acsnano.6c06799",
-      "url": "https://doi.org/10.1021/acsnano.6c06799",
-      "posted_date": "2026-08-22",
-      "status": "ASAP"
-    },
-    {
-      "journal": "ACSN",
-      "title": "Particle-by-Particle Biomolecular Coronas: Insights into Single-Particle Analysis of Fluorescent Labeling",
-      "authors": [
-        "Ester Canepa",
-        "Chiara Giacomozzi",
-        "Patrizia Romano",
-        "Camille Legentil",
-        "Breno Moura Motta",
-        "Qiwei Wang",
-        "Zixu Zhao",
-        "Pablo Graván",
-        "Serena Leone",
-        "Ilaria Corsi",
-        "Rita Carrotta",
-        "Alfonso Blanco",
-        "Yan Yan",
-        "Kenneth Dawson"
-      ],
-      "doi": "10.1021/acsnano.6c10058",
-      "url": "https://doi.org/10.1021/acsnano.6c10058",
-      "posted_date": "2026-08-22",
-      "status": "ASAP"
-    },
-    {
-      "journal": "ACSN",
-      "title": "Distinct Charge Compensation Induced by Cationic Ordering-Disordering Transition in Layered Oxide Cathode",
-      "authors": [
-        "Qianjie Niu",
-        "Chen Cheng",
-        "Zheng Zhou",
-        "Lei Wang",
-        "Pan Zeng",
-        "Liang Zhang"
-      ],
-      "doi": "10.1021/acsnano.6c04886",
-      "url": "https://doi.org/10.1021/acsnano.6c04886",
-      "posted_date": "2026-08-22",
-      "status": "ASAP"
-    },
-    {
       "journal": "JACS",
       "title": "Superconducting Hydride Mg2RhH6 Experimentally Achieved at Lower Pressure",
       "authors": [
@@ -142752,24 +144657,6 @@
     },
     {
       "journal": "JACS",
-      "title": "Redox-Controlled Access to Spin States from S = 0 to S = 3/2 in a 1,2-Dicarbonyl Scaffold Enabled by a Naphthoquinone-Fused N-Heterocyclic Carbene",
-      "authors": [
-        "Jaelim Kim",
-        "Wooyeol Ryu",
-        "Hyeonju Kim",
-        "Minjae Jang",
-        "Yujin Choi",
-        "Jeongcheol Shin",
-        "Sun Hee Kim",
-        "Eunsung Lee"
-      ],
-      "doi": "10.1021/jacs.6c13908",
-      "url": "https://doi.org/10.1021/jacs.6c13908",
-      "posted_date": "2026-08-21",
-      "status": "ASAP"
-    },
-    {
-      "journal": "JACS",
       "title": "Intrinsic Morphological Chirality Governs Spin Selectivity in Gold Nanoparticles",
       "authors": [
         "Chongyang Yao",
@@ -142822,23 +144709,6 @@
       ],
       "doi": "10.1021/jacs.6c08192",
       "url": "https://doi.org/10.1021/jacs.6c08192",
-      "posted_date": "2026-08-21",
-      "status": "ASAP"
-    },
-    {
-      "journal": "JACS",
-      "title": "Self-Sustained Hydrogen Relay Enables Thermodynamically Coupled Cyclohexane-CO2 Conversion to Aromatics over Tandem Catalysts",
-      "authors": [
-        "Haohao Feng",
-        "Jingyi Zhu",
-        "Zhong-Pan Hu",
-        "Enze Chen",
-        "Jingfeng Han",
-        "Yingxu Wei",
-        "Zhongmin Liu"
-      ],
-      "doi": "10.1021/jacs.6c13315",
-      "url": "https://doi.org/10.1021/jacs.6c13315",
       "posted_date": "2026-08-21",
       "status": "ASAP"
     },
@@ -142945,23 +144815,6 @@
       ],
       "doi": "10.1021/jacs.6c11709",
       "url": "https://doi.org/10.1021/jacs.6c11709",
-      "posted_date": "2026-08-21",
-      "status": "ASAP"
-    },
-    {
-      "journal": "JACS",
-      "title": "Rapid, Low-Cost, Low-Temperature Pyrazole-Flux Synthesis of Imide Covalent Organic Frameworks for Uranium/Rare Earth Separation",
-      "authors": [
-        "Yao Zhang",
-        "Bohan Yang",
-        "Xianqing Xie",
-        "Xuefeng Feng",
-        "Xing Liu",
-        "Lele Gong",
-        "Feng Luo"
-      ],
-      "doi": "10.1021/jacs.6c12938",
-      "url": "https://doi.org/10.1021/jacs.6c12938",
       "posted_date": "2026-08-21",
       "status": "ASAP"
     },
@@ -143124,138 +144977,6 @@
       ],
       "doi": "10.1021/jacs.6c09551",
       "url": "https://doi.org/10.1021/jacs.6c09551",
-      "posted_date": "2026-08-21",
-      "status": "ASAP"
-    },
-    {
-      "journal": "ACSN",
-      "title": "Living Microbe-Driven Bioorthogonal Catalysts Enables Cytotoxin Generation, Cuproptosis and Lactate Depletion for Synergistic Tumor Therapy",
-      "authors": [
-        "Lili Xia",
-        "Xiangxuan Chao",
-        "Zitong Zhao",
-        "Xiaozhen Zhou",
-        "Chenyao Wu",
-        "Xinran Song",
-        "Wenli Zhou",
-        "Yuyao Li",
-        "Wei Feng",
-        "Yu Chen"
-      ],
-      "doi": "10.1021/acsnano.6c08698",
-      "url": "https://doi.org/10.1021/acsnano.6c08698",
-      "posted_date": "2026-08-21",
-      "status": "ASAP"
-    },
-    {
-      "journal": "ACSN",
-      "title": "Transgene-Free Photothermal Enhancement of Glucose-Adaptive Insulin Secretion by Amplifying Ca2+ Oscillations",
-      "authors": [
-        "Feifei Wu",
-        "Xinwei Wei",
-        "Wei Zhao",
-        "Liqing He",
-        "Bulong Gao",
-        "Yujie Luo",
-        "Wen Zhou",
-        "Yixuan Chai",
-        "Yanfang Wang",
-        "Baiheng Wu",
-        "Jinqiang Wang",
-        "Junqiu Liu",
-        "Dingcheng Zhu"
-      ],
-      "doi": "10.1021/acsnano.6c03666",
-      "url": "https://doi.org/10.1021/acsnano.6c03666",
-      "posted_date": "2026-08-21",
-      "status": "ASAP"
-    },
-    {
-      "journal": "ACSN",
-      "title": "An “Oxidative Stress Clock” Nanoprobe Reveals the Therapeutic Time Window for Antioxidant Intervention in Atherosclerosis",
-      "authors": [
-        "Xia Zhang",
-        "Guocheng Li",
-        "Jiaqi Yin",
-        "Jiarui Zhong",
-        "Wei Pan",
-        "Yanhua Li",
-        "Na Li",
-        "Bo Tang"
-      ],
-      "doi": "10.1021/acsnano.6c09224",
-      "url": "https://doi.org/10.1021/acsnano.6c09224",
-      "posted_date": "2026-08-21",
-      "status": "ASAP"
-    },
-    {
-      "journal": "ACSN",
-      "title": "Adamantane Self-Assembly Templates Size-Selective Ion-Transport Domains in Solid-State Organic Electrolytes",
-      "authors": [
-        "Sila Alemdar",
-        "Jack McAlpine",
-        "Hrishikesh Tupkar",
-        "Marissa Gallmeyer",
-        "Diego Rosario Sánchez",
-        "Margaret Szalaj",
-        "Jeremy E. Dahl",
-        "Robert M. K. Carlson",
-        "Boryslav O. Tkachenko",
-        "Whitney S. Loo",
-        "Peter R. Schreiner",
-        "Matthew A. Gebbie"
-      ],
-      "doi": "10.1021/acsnano.6c08168",
-      "url": "https://doi.org/10.1021/acsnano.6c08168",
-      "posted_date": "2026-08-21",
-      "status": "ASAP"
-    },
-    {
-      "journal": "ACSN",
-      "title": "InF3 Surface Passivation on InAs Quantum Dots Enhances Photoluminescence and Reduces Trap-Induced Dark Current in Shortwave Infrared Photodetectors",
-      "authors": [
-        "Hua Chen",
-        "Boris B. Claus",
-        "Wenya Song",
-        "Marina Vildanova",
-        "Lara M. van der Poll",
-        "Anne van Aken",
-        "Yan B. Vogel",
-        "Jing Bai",
-        "Yun Hai",
-        "Yigithan M. Kose",
-        "Maria Isabel Pintor Monroy",
-        "Loredana Protesescu",
-        "Tom J. Savenije",
-        "Zeger Hens",
-        "Itai Lieberman",
-        "Arjan J. Houtepen"
-      ],
-      "doi": "10.1021/acsnano.6c06196",
-      "url": "https://doi.org/10.1021/acsnano.6c06196",
-      "posted_date": "2026-08-21",
-      "status": "ASAP"
-    },
-    {
-      "journal": "ACSN",
-      "title": "Layered Lipid Nanoparticle Adjuvants Coordinate Toll-Like Receptor 4 and Toll-Like Receptor 9 Activation with Enhanced Immunity and Improved Tolerability",
-      "authors": [
-        "Haolin Chen",
-        "Ruifeng Wang",
-        "Zhihui Zhang",
-        "Zeyu Yang",
-        "Zhenfu Wen",
-        "Liyan Li",
-        "Zhijia Liu",
-        "Dang Fan",
-        "Yuhua Xu",
-        "Ming Li",
-        "Hong Liu",
-        "Lixin Liu",
-        "Yongming Chen"
-      ],
-      "doi": "10.1021/acsnano.6c09358",
-      "url": "https://doi.org/10.1021/acsnano.6c09358",
       "posted_date": "2026-08-21",
       "status": "ASAP"
     },
@@ -144119,87 +145840,6 @@
       "url": "https://doi.org/10.1002/anie.8987221",
       "posted_date": "2026-08-20",
       "status": "EarlyView"
-    },
-    {
-      "journal": "ACSN",
-      "title": "Molecular Design Principles for Photosystem I-Based Biohybrid Solar Fuel Catalysts",
-      "authors": [
-        "Maximino D. Emerson",
-        "Siva Naga Sai Damaraju",
-        "Audrey H. Short",
-        "Zachary B. Alvord",
-        "Zsolt A. Palmer",
-        "Himanshu S. Mehra",
-        "Christian M. Brininger",
-        "Josh V. Vermaas",
-        "Lisa M. Utschig",
-        "Christopher J. Gisriel"
-      ],
-      "doi": "10.1021/acsnano.6c07948",
-      "url": "https://doi.org/10.1021/acsnano.6c07948",
-      "posted_date": "2026-08-20",
-      "status": "ASAP"
-    },
-    {
-      "journal": "ACSN",
-      "title": "Self-Assembled Molecular Interfaces in Batteries: From Surface Passivation to Programmable Interphase Engineering",
-      "authors": [
-        "Jilu Zhao",
-        "Qingyu Dong",
-        "Hui Shao",
-        "Yanbin Shen",
-        "Liwei Chen"
-      ],
-      "doi": "10.1021/acsnano.6c08141",
-      "url": "https://doi.org/10.1021/acsnano.6c08141",
-      "posted_date": "2026-08-20",
-      "status": "ASAP"
-    },
-    {
-      "journal": "ACSN",
-      "title": "g-Factor-Enhanced Upper Critical Field in Superconducting PdTe2 due to Quantum Confinement",
-      "authors": [
-        "Kota Yoshimura",
-        "Tzu-Chi Hsieh",
-        "Huiyang Ma",
-        "Dmitry V. Chichinadze",
-        "Shan Zou",
-        "Michael Stuckert",
-        "David Graf",
-        "Robert Nowell",
-        "Muhsin Abdul Karim",
-        "Daichi Kozawa",
-        "Ryo Kitaura",
-        "Bence G. Márkus",
-        "László Forró",
-        "Xiaolong Liu",
-        "Dafei Jin",
-        "Xinyu Liu",
-        "Cyprian Lewandowski",
-        "Yi-Ting Hsu",
-        "Badih A. Assaf"
-      ],
-      "doi": "10.1021/acsnano.6c07055",
-      "url": "https://doi.org/10.1021/acsnano.6c07055",
-      "posted_date": "2026-08-20",
-      "status": "ASAP"
-    },
-    {
-      "journal": "ACSN",
-      "title": "Nanoscale Architecture Can Control Cellular Function",
-      "authors": [
-        "Ha Neul Lee",
-        "Lingxia Qiao",
-        "Yanghao Zhong",
-        "Sohum Mehta",
-        "Akemi J. Nishida",
-        "Padmini Rangamani",
-        "Jin Zhang"
-      ],
-      "doi": "10.1021/acsnano.6c03529",
-      "url": "https://doi.org/10.1021/acsnano.6c03529",
-      "posted_date": "2026-08-20",
-      "status": "ASAP"
     },
     {
       "journal": "JACS",
